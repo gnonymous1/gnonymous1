@@ -54,7 +54,7 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
     <td width="15px"></td>
     <td>
       <a href="https://github.com/gnonymous1/Aspiration-Academy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=Aspiration-Academy&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="Aspiration Academy"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=Aspiration-Academy&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff&amp;cache_seconds=1800" width="410px" alt="Aspiration Academy"/>
       </a>
     </td>
   </tr>
