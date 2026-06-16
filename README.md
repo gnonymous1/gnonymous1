@@ -12,8 +12,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=00ff66&label=SYSTEM+ACCESSES&labelColor=000000)](https://github.com/gnonymous1)
-[![Google PM](https://img.shields.io/badge/Google_PM-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
-[![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-APAC_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)](#)
+[![PM Cert](https://img.shields.io/badge/Project_Management-Verified-00ff66?style=for-the-badge&labelColor=000000)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
+[![AI Leader](https://img.shields.io/badge/AI_Leader-APAC_Cloud-34A853?style=for-the-badge&labelColor=000000)](#)
 
 </div>
 
@@ -45,56 +45,63 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 <div align="center">
 
 ```
-====================== CORE SYSTEM SPECS & SKILLSET ======================
+====================== SKILLS, EXPERTISE & STACK ======================
 ```
 
 ### [ CORE LANGUAGES ]
 ```
-[C / C++] ──────────► Linux Kernel, Networking, and Performance Optimization
+[C / C++] ──────────► Linux Kernel, Networking, and Performance Systems
 [Python] ───────────► FastAPI, PyTorch, Streamlit, Automation, and Scripting
-[TypeScript] ───────► Next.js 15, Node.js, and Type-Safe Web Architectures
-[JavaScript] ───────► React, ES6+, Web APIs, and Legacy Service Workers
-[Go / Rust] ────────► Low-Latency Services and Systems Level Tooling
-[SQL / PL-SQL] ─────► PostgreSQL Sharding, RLS Policies, and Query Tuning
+[TypeScript] ───────► Next.js 15, Node.js, and Type-Safe Web Frameworks
+[JavaScript] ───────► React, ES6+, Web APIs, and Service Workers
+[Go / Rust] ────────► Low-Latency Services and Systems Level Tools
+[PHP] ──────────────► Advanced Scripting, OOP Web Systems, and Legacy Engines
+[SQL / PL-SQL] ─────► PostgreSQL Sharding, RLS, MySQL DB, and Query Tuning
 [Bash / PowerShell] ► Infrastructure Automation, Deployment, and CLI Scripts
 ```
 
-### [ OPERATING SYSTEMS & CLOUD PLATFORMS ]
+### [ COGNITIVE INTELLIGENCE & AGENT ORCHESTRATION ]
 ```
-[GNU/Linux] ────────► Ubuntu Server, Debian, and Custom eBPF Sandbox Kernels
-[WSL2 / Windows] ───► Local Development Environments and System Services
-[VMware ESXi] ──────► Enterprise-Grade Bare-Metal Hypervisor Virtualization
-[Google Cloud (GCP)] ► Vertex AI, Cloud Functions, and Compute Engine Deployments
-[Microsoft Azure] ──► Distributed Active Directory and Enterprise Networking
-[Cloudflare] ───────► WAF, CDN, DNS Routing, R2 Storage, and Workers
-```
-
-### [ AI & NEURAL ORCHESTRATION CORES ]
-```
+[AI Agents Design] ─► Enterprise Agents, Multi-Agent Mesh, and Tool Ingestion
 [LangGraph] ────────► Stateful Multi-Agent Orchestration & Feedback Graphs
-[CrewAI] ───────────► Autonomous Agentic Mesh Networks & Task Management
+[CrewAI] ───────────► Autonomous Agentic Networks & Task Management
 [Pipecat] ──────────► Real-Time Voice/Vision Conversational Agents over WebRTC
 [Gemini Live API] ──► Direct WebSocket native binary audio/vision streams
-[Gemini 1.5/2.5/3.1] ► High-context reasoning, Flash models, and Vision
+[Gemini Enterprise] ► Gemini Enterprise Apps & Custom Vertex Model Provisioning
 [OpenAI / GPT-4o] ──► Logical parsing, grammar audits, and data extraction
 [Claude 3.5 Sonnet] ─► Advanced structural writing and essay critiques
-[Sentence-Trans.] ──► Local text embeddings (all-MiniLM-L6-v2) for security
-[pgvector / HNSW] ──► High-performance vector similarity search in Postgres
-[Cohere Re-Rank] ───► Reciprocal rank fusion for RAG pipeline optimization
-[OpenCV / PyTorch] ─► Multimodal computer vision & real-time frame processing
+```
+
+### [ DATA SCIENCE, MACHINE LEARNING & ANALYTICS ]
+```
+[Data Science] ─────► Statistical Modeling, Data Lakes, and Feature Engineering
+[Machine Learning] ─► Neural Nets, Sentence-Transformers (Local Embeddings), PyTorch
+[Data Analytics] ───► Financial Telemetry, Streamlit Dashboards, and Performance Signals
+[Vector Databases] ─► pgvector Store (HNSW Search Indexing) and ChromaDB
+[Search Optimization]► Cohere Re-Rank, Hybrid RAG, and Lexical Fusion Search
+[Computer Vision] ──► OpenCV Real-Time RTSP Stream Processing & Image Analysis
 ```
 
 ### [ MICROSERVICES, REAL-TIME & WEB STACK ]
 ```
 [FastAPI] ──────────► Asynchronous Python API Gateways with Pydantic contracts
 [Next.js 15] ───────► App Router, RSC, Framer Motion, and Glassmorphism UI
-[Streamlit] ────────► Real-Time AI Administrative and Neuro-Symbolic Panels
 [WebRTC / WSS] ─────► Low-latency audio/video binary WebSockets & WebRTC
 [Recall.ai API] ────► Headless Chromium container provisioning for virtual meetings
 [LiveKit Server] ───► WebRTC SFU server orchestration and room management
 [Redis Cluster] ────► Idempotent job queues, Leitner states, and session caches
 [PostgreSQL] ───────► Partitioning, RLS (Row-Level Security), and sharding
-[Node.js / Express] ─► Backend tooling, Next.js hydration, and scripting
+```
+
+### [ OPERATING SYSTEMS & CLOUD PLATFORMS ]
+```
+[GNU/Linux] ────────► Ubuntu Server, Debian, Linux Kernel Modules, and System Services
+[Cloud Modernization]► Infrastructure Modernization & App Virtualization
+[Google Cloud (GCP)] ► Vertex AI, Cloud Functions, and Compute Engine Deployments
+[Microsoft Azure] ──► Distributed Active Directory and Enterprise Networking
+[Cloudflare] ───────► WAF, CDN, DNS Routing, R2 Storage, and Workers
+[VMware ESXi] ──────► Enterprise-Grade Bare-Metal Hypervisor Virtualization
+[WSL2 / Windows] ───► Local Development Environments and System Services
 ```
 
 ### [ KERNEL SYSTEMS, NETWORKING & SECURITY ]
@@ -108,13 +115,22 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 [Scrapy / Crawler] ─► Automated data extraction engines & document crawling
 ```
 
-### [ ENTERPRISE INTEGRATIONS & BILLING SYSTEMS ]
+### [ ENTERPRISE LOGISTICS & BILLING SYSTEMS ]
 ```
+[Digital Trans.] ───► IT-Enabled Business & Enterprise Digital Transformation
 [Oracle NetSuite] ──► SuiteScript 2.0 sharded workflows, B2B ERP setups
 [QuickBooks / Xero] ─► Corporate accounting sync and billing automations
 [Drake / Lacerte] ──► Tax preparation systems & SaaS tax auditing workflows
 [Stripe Billing] ───► Global subscription models, webhooks, and billing APIs
 [JazzCash/Easypaisa] ► Local Pakistani mobile wallet integrations & gateways
+```
+
+### [ AGILE OPERATIONS & PROJECT MANAGEMENT ]
+```
+[IT Management] ────► Systems Infrastructure, Risk Mitigation, and Logistics
+[Project Management]► Agile/Scrum, Sprint planning, SAFe, and Product Lifecycle
+[Ecosystem Audits] ─► Systems Compliance Audits, Performance Signal Tracking
+[Oral & Written Com]► Team Collaboration, Stakeholder alignment, Technical Writing
 ```
 
 </div>
@@ -190,25 +206,26 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 ---
 
-## [ 06 // SYSTEM SIGNALS & ECOSYSTEM INGRESS ]
+## [ 06 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS ]
 
 ```
-[ GOVERNMENT / NATIONAL DEPLOYS ]
-  ▸ System Lead — National Idea Bank evaluation & scoring database
-  ▸ Chief Director — 1st International Sindh Tech Conference
-  ▸ Policy Alignment: MoITT · PITB · NIC Karachi · Sukkur IBA University
-  ▸ Facilitated $2M private funding translations via data telemetry metrics
-
-[ INCUBATION LAB LOGS ]
-  ▸ Coached 6 Agile cohorts · Systems audit of 1,500+ technical assets
-  ▸ Systems Mentor: CraftiFem · WISE · EmpowerTech local tech expansions
-  ▸ Managed scalable data lake ingestions & CRM triggers for startup networks
-
-[ CREDENTIALS & TRUST NODES ]
-  ▸ B.S. Computer Science — Shah Abdul Latif University, Khairpur
-  ▸ Google Professional Project Manager Certificate (Verified)
-  ▸ Generative AI Leader — Google Cloud Academy APAC (Verified)
-  ▸ Agile Transformation — McKinsey Forward Space Miners (Verified)
+[ PROFESSIONAL CERTIFICATIONS & VALIDATED SKILLS ]
+  ▸ Build AI Agents with Enterprise Databases Certification (AI Agents, GCP databases)
+  ▸ Innovation with Cloud Artificial Intelligence Certification (Innovation Management, AI)
+  ▸ Infrastructure & Application Modernization Certification (Modernize Apps & Cloud Infra)
+  ▸ IT-Enabled Business & Digital Transformation Certification (Digital Transformation)
+  ▸ Generative AI Applications Development Certification (Gen AI apps)
+  ▸ Generative AI Agents & Organizational Transformation Certification (Gen AI Agents)
+  ▸ Generative AI Landscapes & Navigation Certification (Gen AI Core Concepts)
+  ▸ Enterprise Agents & Systems Use Cases Certification (Enterprise Agents, GCP deployments)
+  ▸ Gemini Enterprise Application Development Certification (Gemini Enterprise Applications)
+  ▸ Professional Project Management Specialist Certification (Agile, Project Lifecycle)
+  ▸ Foundations of Project Management Certification (Project Initiation & Management)
+  ▸ Cybersecurity Principles & Network Hardening Certification (Cybersecurity, Linux, Sec)
+  ▸ IT Infrastructure & Technical Support Fundamentals Certification (Networking, Support)
+  ▸ Enterprise Entry Level Networking & Routing Certification (Cisco Certified Routing)
+  ▸ Systems C++ & Software Engineering Certification (C++ web/systems dev)
+  ▸ Advanced PHP & MySQL Web Systems Development Certification (PHP/MySQL OOP engines)
 ```
 
 ---
