@@ -1,6 +1,26 @@
+# 👋 Ghulam Nabi Kalhoro · GNONYMOUS1
+
+### Enterprise Solutions Architect • AI Engineer • Technology Strategist
+
+Building enterprise AI systems, secure infrastructure, and scalable digital platforms.
+
+---
+
+## Executive Summary
+
+- Enterprise Solutions Architecture
+- Agentic AI & Multi-Agent Systems
+- Cloud & Infrastructure Engineering
+- Security, Networking & eBPF Systems
+- Project Leadership & Digital Transformation
+
+---
+
+## Portfolio & Technical Showcase
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=180&amp;section=header&amp;text=%5B%20GNONYMOUS1%20%5D&amp;fontSize=42&amp;fontColor=00f0ff&amp;fontAlignY=40&amp;desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20%26%20CTO&amp;descSize=14&amp;descAlignY=65&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=180&amp;section=header&amp;text=%5B%20GNONYMOUS1%20%5D&amp;fontSize=42&amp;fontColor=00f0ff&amp;fontAlignY=40&amp;desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20AND%20CTO&amp;descSize=14&amp;descAlignY=65&amp;animation=fadeIn&amp;v=3" width="100%"/>
 
 <br/>
 
