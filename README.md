@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghulamnabikalhoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ghulamnabikalhoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghulamnabikalhoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
 [![GitHub](https://img.shields.io/badge/GitHub-gnonymous1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gnonymous1)
 [![Location](https://img.shields.io/badge/📍_Location-Pakistan-10b981?style=for-the-badge&labelColor=0d1117)](#)
 [![Status](https://img.shields.io/badge/⚡_Status-Actively%20Building-f97316?style=for-the-badge&labelColor=0d1117)](#)
@@ -239,7 +239,7 @@ Expert at cross-pollinating **business lifecycle management** with data telemetr
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ghulamnabikalhoro)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
 [![Email](https://img.shields.io/badge/Email-49105154%2Bgnonymous1%40users.noreply.github.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:49105154+gnonymous1@users.noreply.github.com)
 
 <br/>
