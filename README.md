@@ -77,7 +77,7 @@
 <!-- 01 // EXECUTIVE DOSSIER                   -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_dossier.svg" width="100%" alt="Executive Dossier"/>
+  <img src="widgets/widget_dossier.svg?v=3" width="100%" alt="Executive Dossier"/>
 </div>
 
 ---
@@ -86,7 +86,7 @@
 <!-- 02 // RUNTIME ACTIVE ROLES (WORK EXP)     -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_roles.svg" width="100%" alt="Runtime Active Roles"/>
+  <img src="widgets/widget_roles.svg?v=3" width="100%" alt="Runtime Active Roles"/>
 </div>
 
 ---
@@ -100,41 +100,41 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="widgets/widget_skills_languages.svg" width="410px" alt="Languages"/>
+        <img src="widgets/widget_skills_languages.svg?v=3" width="410px" alt="Languages"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_ai.svg" width="410px" alt="AI &amp; Cognitive"/>
+        <img src="widgets/widget_skills_ai.svg?v=3" width="410px" alt="AI &amp; Cognitive"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_data.svg" width="410px" alt="Data Science"/>
+        <img src="widgets/widget_skills_data.svg?v=3" width="410px" alt="Data Science"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_web.svg" width="410px" alt="Web &amp; Microservices"/>
+        <img src="widgets/widget_skills_web.svg?v=3" width="410px" alt="Web &amp; Microservices"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_os.svg" width="410px" alt="OS &amp; Cloud"/>
+        <img src="widgets/widget_skills_os.svg?v=3" width="410px" alt="OS &amp; Cloud"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_security.svg" width="410px" alt="Kernel &amp; Security"/>
+        <img src="widgets/widget_skills_security.svg?v=3" width="410px" alt="Kernel &amp; Security"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_enterprise.svg" width="410px" alt="Enterprise Logistics"/>
+        <img src="widgets/widget_skills_enterprise.svg?v=3" width="410px" alt="Enterprise Logistics"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_agile.svg" width="410px" alt="Agile &amp; PM"/>
+        <img src="widgets/widget_skills_agile.svg?v=3" width="410px" alt="Agile &amp; PM"/>
       </td>
     </tr>
   </table>
@@ -146,7 +146,7 @@
 <!-- 04 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS-->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_blueprints.svg" width="100%" alt="Deployed Systems Blueprint"/>
+  <img src="widgets/widget_blueprints.svg?v=3" width="100%" alt="Deployed Systems Blueprint"/>
 </div>
 
 ---
@@ -191,7 +191,7 @@
 <!-- 06 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS-->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_credentials.svg" width="100%" alt="System Credentials &amp; Certifications"/>
+  <img src="widgets/widget_credentials.svg?v=3" width="100%" alt="System Credentials &amp; Certifications"/>
 </div>
 
 ---
