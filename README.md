@@ -20,7 +20,7 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=180&amp;section=header&amp;text=%5B%20GNONYMOUS1%20%5D&amp;fontSize=42&amp;fontColor=00f0ff&amp;fontAlignY=40&amp;desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20AND%20CTO&amp;descSize=14&amp;descAlignY=65&amp;animation=fadeIn&amp;v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=180&amp;section=header&amp;text=%5B%20GNONYMOUS1%20%5D&amp;fontSize=42&amp;fontColor=00f0ff&amp;fontAlignY=40&amp;desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20AND%20CTO&amp;descSize=14&amp;descAlignY=65&amp;animation=fadeIn&amp;v=4" width="100%"/>
 
 <br/>
 
@@ -97,64 +97,55 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
 <!-- 01 // EXECUTIVE DOSSIER                   -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_dossier.svg?v=3" width="100%" alt="Executive Dossier"/>
+  <img src="widgets/widget_dossier.svg?v=4" width="100%" alt="Executive Dossier"/>
 </div>
 
 ---
 
 <!-- ========================================== -->
-<!-- 02 // RUNTIME ACTIVE ROLES (WORK EXP)     -->
+<!-- 02 // TECHNICAL DEPLOYMENT MATRIX         -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_roles.svg?v=3" width="100%" alt="Runtime Active Roles"/>
-</div>
-
----
-
-<!-- ========================================== -->
-<!-- 03 // TECHNICAL DEPLOYMENT MATRIX         -->
-<!-- ========================================== -->
-<div align="center">
-  <h3 style="color:#00f0ff; font-family: monospace;">[ 03 // TECHNICAL DEPLOYMENT MATRIX ]</h3>
+  <h3 style="color:#00f0ff; font-family: monospace;">[ 02 // TECHNICAL DEPLOYMENT MATRIX ]</h3>
   <br/>
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="widgets/widget_skills_languages.svg?v=3" width="410px" alt="Languages"/>
+        <img src="widgets/widget_skills_languages.svg?v=4" width="410px" alt="Languages"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_ai.svg?v=3" width="410px" alt="AI &amp; Cognitive"/>
+        <img src="widgets/widget_skills_ai.svg?v=4" width="410px" alt="AI &amp; Cognitive"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_data.svg?v=3" width="410px" alt="Data Science"/>
+        <img src="widgets/widget_skills_data.svg?v=4" width="410px" alt="Data Science"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_web.svg?v=3" width="410px" alt="Web &amp; Microservices"/>
+        <img src="widgets/widget_skills_web.svg?v=4" width="410px" alt="Web &amp; Microservices"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_os.svg?v=3" width="410px" alt="OS &amp; Cloud"/>
+        <img src="widgets/widget_skills_os.svg?v=4" width="410px" alt="OS &amp; Cloud"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_security.svg?v=3" width="410px" alt="Kernel &amp; Security"/>
+        <img src="widgets/widget_skills_security.svg?v=4" width="410px" alt="Kernel &amp; Security"/>
       </td>
     </tr>
     <tr><td height="10px"></td></tr>
     <tr>
       <td>
-        <img src="widgets/widget_skills_enterprise.svg?v=3" width="410px" alt="Enterprise Logistics"/>
+        <img src="widgets/widget_skills_enterprise.svg?v=4" width="410px" alt="Enterprise Logistics"/>
       </td>
       <td width="15px"></td>
       <td>
-        <img src="widgets/widget_skills_agile.svg?v=3" width="410px" alt="Agile &amp; PM"/>
+        <img src="widgets/widget_skills_agile.svg?v=4" width="410px" alt="Agile &amp; PM"/>
       </td>
     </tr>
   </table>
@@ -163,16 +154,16 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
 ---
 
 <!-- ========================================== -->
-<!-- 04 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS-->
+<!-- 03 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS-->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_blueprints.svg?v=3" width="100%" alt="Deployed Systems Blueprint"/>
+  <img src="widgets/widget_blueprints.svg?v=4" width="100%" alt="Deployed Systems Blueprint"/>
 </div>
 
 ---
 
 <!-- ========================================== -->
-<!-- 05 // ACTIVITY METRICS                     -->
+<!-- 04 // ACTIVITY METRICS                     -->
 <!-- ========================================== -->
 <div align="center">
   <h3 style="color:#00f0ff; font-family: monospace;">[ 04 // SYSTEM ACTIVITY METRICS ]</h3>
@@ -208,16 +199,16 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
 ---
 
 <!-- ========================================== -->
-<!-- 06 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS-->
+<!-- 05 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS-->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_credentials.svg?v=3" width="100%" alt="System Credentials &amp; Certifications"/>
+  <img src="widgets/widget_credentials.svg?v=4" width="100%" alt="System Credentials &amp; Certifications"/>
 </div>
 
 ---
 
 <!-- ========================================== -->
-<!-- 07 // SYSTEM CONNECT & TERMINATION        -->
+<!-- 06 // SYSTEM CONNECT & TERMINATION        -->
 <!-- ========================================== -->
 <div align="center">
 

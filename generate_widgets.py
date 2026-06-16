@@ -105,7 +105,7 @@ def generate_svg(filename, width, height, title, content_html, status="SYS_STATU
         f.write(svg_template)
     print(f"Generated {filename}")
 
-# 1. DOSSIER WIDGET
+# 1. DOSSIER WIDGET (increased height to 240)
 dossier_content = """
 <div style="margin-top: 5px;">
   <span class="comment"># [root@gnonymous1] // DECRYPTED_PROFILE: ACTIVE</span><br/>
@@ -119,46 +119,9 @@ dossier_content = """
   &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
 </div>
 """
-generate_svg("widget_dossier.svg", 850, 180, "[ 01 // EXECUTIVE DOSSIER ]", dossier_content, "DECRYPT: SUCCESS")
+generate_svg("widget_dossier.svg", 850, 240, "[ 01 // EXECUTIVE DOSSIER ]", dossier_content, "DECRYPT: SUCCESS")
 
-# 2. ROLES WIDGET
-roles_content = """
-<table class="table-container">
-  <tr>
-    <th class="table-header" style="width: 25%;">ROLE</th>
-    <th class="table-header" style="width: 25%;">TARGET NODE</th>
-    <th class="table-header" style="width: 18%;">EPOCH</th>
-    <th class="table-header" style="width: 32%;">VECTOR DOMAIN</th>
-  </tr>
-  <tr>
-    <td class="table-cell table-cell-bold">Chief Technology Officer</td>
-    <td class="table-cell">ServePro BPO &#183; USA</td>
-    <td class="table-cell" style="color: #ffbd2e;">2024 - Present</td>
-    <td class="table-cell">AI Infrastructure &#183; FinTech Billing</td>
-  </tr>
-  <tr>
-    <td class="table-cell table-cell-bold">Incubation Manager</td>
-    <td class="table-cell">NICs Sukkur &#183; PITB</td>
-    <td class="table-cell">2021 - 2024</td>
-    <td class="table-cell">B2G Innovation &#183; Startup Cohorts</td>
-  </tr>
-  <tr>
-    <td class="table-cell table-cell-bold">IT Systems Manager</td>
-    <td class="table-cell">Corporate IT &#183; KSA</td>
-    <td class="table-cell">Previous</td>
-    <td class="table-cell">ERP Integrations &#183; Cloud Architecture</td>
-  </tr>
-  <tr>
-    <td class="table-cell table-cell-bold">CSO (Advisory Node)</td>
-    <td class="table-cell">SindhCounts &#183; AIM &#183; BUIDL</td>
-    <td class="table-cell" style="color: #ffbd2e;">Ongoing</td>
-    <td class="table-cell">Zero-Trust Auditing &#183; Agile Systems</td>
-  </tr>
-</table>
-"""
-generate_svg("widget_roles.svg", 850, 195, "[ 02 // RUNTIME ACTIVE ROLES ]", roles_content, "SYS_EPOCH: RUNNING")
-
-# 3. TECHNICAL MATRIX WIDGETS (Grid widgets: 410px width, 240px height)
+# 3. TECHNICAL MATRIX WIDGETS (Grid widgets: 410px width, increased height to 270)
 
 # 3.1 Languages
 lang_content = """
@@ -176,7 +139,7 @@ lang_content = """
   &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">SQL, PL-SQL (PostgreSQL, MySQL)</span>
 </div>
 """
-generate_svg("widget_skills_languages.svg", 410, 240, "[ LANGUAGES &amp; STACK ]", lang_content, "ENV: DEPLOYED")
+generate_svg("widget_skills_languages.svg", 410, 270, "[ LANGUAGES &amp; STACK ]", lang_content, "ENV: DEPLOYED")
 
 # 3.2 AI & Cognitive
 ai_content = """
@@ -198,7 +161,7 @@ ai_content = """
   <span class="key">}}</span>
 </div>
 """
-generate_svg("widget_skills_ai.svg", 410, 240, "[ COGNITIVE AI &amp; MESH ]", ai_content, "AGENT: ACTIVE")
+generate_svg("widget_skills_ai.svg", 410, 270, "[ COGNITIVE AI &amp; MESH ]", ai_content, "AGENT: ACTIVE")
 
 # 3.3 Data Science & ML
 data_content = """
@@ -215,7 +178,7 @@ data_content = """
   &#160;&#160;&#160;&#160;self.<span class="key">vision</span> = <span class="val">"OpenCV RTSP Processing"</span>
 </div>
 """
-generate_svg("widget_skills_data.svg", 410, 240, "[ DATA SCIENCE &amp; ML ]", data_content, "KERN: LOADED")
+generate_svg("widget_skills_data.svg", 410, 270, "[ DATA SCIENCE &amp; ML ]", data_content, "KERN: LOADED")
 
 # 3.4 Web & Microservices
 web_content = """
@@ -231,7 +194,7 @@ web_content = """
   &#160;&#160;<span class="key">database:</span> <span class="val">PostgreSQL Sharded RLS</span>
 </div>
 """
-generate_svg("widget_skills_web.svg", 410, 240, "[ REALTIME WEB &amp; API ]", web_content, "PORT: OPEN")
+generate_svg("widget_skills_web.svg", 410, 270, "[ REALTIME WEB &amp; API ]", web_content, "PORT: OPEN")
 
 # 3.5 OS & Cloud
 os_content = """
@@ -246,7 +209,7 @@ os_content = """
   <span class="key">Reverse_Proxy</span> = <span class="val">Nginx, HAProxy Load Balancer</span>
 </div>
 """
-generate_svg("widget_skills_os.svg", 410, 240, "[ OS &amp; CLOUD PLATFORMS ]", os_content, "NODE: BOUND")
+generate_svg("widget_skills_os.svg", 410, 270, "[ OS &amp; CLOUD PLATFORMS ]", os_content, "NODE: BOUND")
 
 # 3.6 Kernel & Security
 sec_content = """
@@ -261,7 +224,7 @@ sec_content = """
   <span class="key">}}</span>
 </div>
 """
-generate_svg("widget_skills_security.svg", 410, 240, "[ KERNEL &amp; NET SECURITY ]", sec_content, "SHIELD: ARMED")
+generate_svg("widget_skills_security.svg", 410, 270, "[ KERNEL &amp; NET SECURITY ]", sec_content, "SHIELD: ARMED")
 
 # 3.7 Enterprise Billing
 ent_content = """
@@ -277,7 +240,7 @@ ent_content = """
   &#160;&#160;&#160;&#160;]<br/>
 </div>
 """
-generate_svg("widget_skills_enterprise.svg", 410, 240, "[ ENTERPRISE INFRA &amp; ERP ]", ent_content, "LEDGER: INTACT")
+generate_svg("widget_skills_enterprise.svg", 410, 270, "[ ENTERPRISE INFRA &amp; ERP ]", ent_content, "LEDGER: INTACT")
 
 # 3.8 Agile & PM
 agile_content = """
@@ -294,9 +257,9 @@ agile_content = """
   <span class="key">}}</span>
 </div>
 """
-generate_svg("widget_skills_agile.svg", 410, 240, "[ AGILE OPERATIONS &amp; PM ]", agile_content, "COMPLIANCE: OK")
+generate_svg("widget_skills_agile.svg", 410, 270, "[ AGILE OPERATIONS &amp; PM ]", agile_content, "COMPLIANCE: OK")
 
-# 4. BLUEPRINTS WIDGET
+# 4. BLUEPRINTS WIDGET (increased height to 260)
 blueprint_content = """
 <div style="margin-top: 5px; font-size: 11px;">
   <table class="table-container">
@@ -339,9 +302,9 @@ blueprint_content = """
   </table>
 </div>
 """
-generate_svg("widget_blueprints.svg", 850, 220, "[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]", blueprint_content, "NODES: MAP_VERIFIED")
+generate_svg("widget_blueprints.svg", 850, 260, "[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]", blueprint_content, "NODES: MAP_VERIFIED")
 
-# 5. CREDENTIALS WIDGET
+# 5. CREDENTIALS WIDGET (increased height to 410)
 credentials_content = """
 <div style="font-family: monospace; font-size: 11px; max-height: 380px; overflow-y: hidden;">
   <span class="comment">[SYSTEM_CREDENTIALS_VERIFIED_DECRYPTED]</span><br/>
@@ -363,6 +326,6 @@ credentials_content = """
   <span class="key">[2011-09]</span> <span class="val">ADVANCED_PHP_MYSQL_WEB_SYSTEMS</span> <span class="comment">// Skills: PHP OOP Web Engines &amp; Relational Databases</span>
 </div>
 """
-generate_svg("widget_credentials.svg", 850, 380, "[ 05 // SYSTEM SIGNALS &amp; ECOSYSTEM CREDENTIALS ]", credentials_content, "CERTIFICATES: 16_VERIFIED")
+generate_svg("widget_credentials.svg", 850, 410, "[ 05 // SYSTEM SIGNALS &amp; ECOSYSTEM CREDENTIALS ]", credentials_content, "CERTIFICATES: 16_VERIFIED")
 
 print("All widgets generated successfully.")

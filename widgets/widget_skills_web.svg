@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="410" height="240" viewBox="0 0 410 240" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="270" viewBox="0 0 410 270" fill="none">
   <style>
     .card {
       font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
@@ -8,7 +8,7 @@
       box-sizing: border-box;
       padding: 15px 20px;
       width: 408px;
-      height: 238px;
+      height: 268px;
     }
     .header {
       display: flex;
@@ -77,7 +77,7 @@
       font-weight: bold;
     }
   </style>
-  <foreignObject x="0" y="0" width="410" height="240">
+  <foreignObject x="0" y="0" width="410" height="270">
     <div xmlns="http://www.w3.org/1999/xhtml" class="card">
       <div class="header">
         <div class="dots">
