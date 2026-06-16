@@ -302,7 +302,7 @@ blueprint_content = """
   </table>
 </div>
 """
-generate_svg("widget_blueprints.svg", 850, 260, "[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]", blueprint_content, "NODES: MAP_VERIFIED")
+generate_svg("widget_blueprints.svg", 850, 320, "[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]", blueprint_content, "NODES: MAP_VERIFIED")
 
 # 5. CREDENTIALS WIDGET (increased height to 410)
 credentials_content = """
