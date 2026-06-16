@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020813,35:05182e,70:092b4a,100:0e446c&height=240&section=header&text=Ghulam%20Nabi%20Kalhoro&fontSize=50&fontColor=00f0ff&fontAlignY=36&desc=Enterprise%20Solutions%20Architect%20%7C%20CTO%20%7C%20AI%20Infrastructure%20Engineer&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000a0f,40:001a24,100:002b3c&height=180&section=header&text=%5B%20GNONYMOUS1%20%5D&fontSize=42&fontColor=00f0ff&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20%7C%20CTO%20%7C%20CYBERNETIC%20ENGINEER&descSize=14&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ghulamnabikalhoro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
-[![GitHub](https://img.shields.io/badge/GitHub-gnonymous1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gnonymous1)
-[![Location](https://img.shields.io/badge/📍_Location-Pakistan-10b981?style=for-the-badge&labelColor=0d1117)](#)
-[![Status](https://img.shields.io/badge/⚡_Status-Actively%20Building-f97316?style=for-the-badge&labelColor=0d1117)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gnonymous1)
+[![Term](https://img.shields.io/badge/TERMINAL-ACTIVE-00ff66?style=for-the-badge&labelColor=0d1117)](#)
+[![Loc](https://img.shields.io/badge/LOCATION-PAKISTAN-10b981?style=for-the-badge&labelColor=0d1117)](#)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/gnonymous1)
-[![Google PM](https://img.shields.io/badge/Google_PM_Certificate-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
-[![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-Google_Cloud_APAC-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=00f0ff&label=SYSTEM+ACCESSES&labelColor=0d1117)](https://github.com/gnonymous1)
+[![Google PM](https://img.shields.io/badge/Google_PM-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
+[![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-APAC_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117)](#)
 
 </div>
 
@@ -23,17 +23,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                        ARCHITECT_DOSSIER  //  SYSTEM_STATUS: ACTIVE         ║
+║                   [root@gnonymous1] // SYSTEM DIAGNOSTICS: RUNNING           ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║   CTO  ──────────────────────────────────  ServePro BPO   (Remote, USA)     ║
-║   Incubation Manager  ───────────────────  NICs Sukkur, PITB (Pakistan)     ║
-║   Enterprise Solutions Architect  ───────  Multi-sector B2G & Corporate     ║
- ║
+║  CTO & Systems Architect  ─────►  ServePro BPO  (Remote, USA)  [ACTIVE]      ║
+║  Incubation Manager       ─────►  NICs Sukkur, PITB (Pakistan) [2021-2024]   ║
+║  Kernel & AI Infra Lead   ─────►  Sovereign Root Protocol (SRP)              ║
+║  Advisory & CSO Roles     ─────►  SindhCounts · AIM Tech · BUIDL             ║
 ║                                                                              ║
-║   Stack Fingerprint:  Python · FastAPI · Next.js · eBPF/XDP · GCP · Azure  ║
-║   AI Footprint:       LangGraph · RAG · Gemini API · LLM Tuning · Vertex   ║
-║   Security Profile:   Zero-Trust · OSINT · Kali Linux · Kernel Networking  ║
+║  Firmware Hash:           0x8F9C4A2B7E1D3F06... (SHA-256 Verified)           ║
+║  Interface Mode:          Zero-Trust eBPF / XDP Kernel Network Filters       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -41,206 +40,168 @@
 
 ---
 
-## 01 // EXECUTIVE SUMMARY
+## [ 01 // EXECUTIVE DOSSIER ]
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=f97316&bg_color=0d1117&text_color=e2e8f0&hide_border=false&count_private=true"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913&text_color=e2e8f0&hide_border=false&count_private=true"/>
 
-Highly accomplished **Enterprise IT Expert & Solutions Architect** with an extensive track record of:
+```text
+Initialize session...
+Decrypting Executive Profile...
+[SUCCESS] dossier loaded.
+```
 
-- 🏗️ Engineering **scalable cloud infrastructures** across GCP and Azure
-- 🤖 Orchestrating **multi-agentic AI frameworks** with LangGraph and RAG
-- 🔒 Directing **eBPF/XDP kernel-level security** enforcement systems
-- 📊 Managing **B2G digital transformation** for government platforms
-- 💰 Integrating **cloud ERP & financial telemetry** pipelines at scale
-- 🎯 Leading **6 consecutive Agile cohorts** across 1,500+ deep-tech products
-
-Expert at cross-pollinating **business lifecycle management** with data telemetry, advanced ERP integrations, and cloud fiscal auditing ecosystems.
+Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing in the cross-pollination of:
+*   🏗️ **Large-Scale Infrastructure:** High-concurrency B2G / Corporate cloud platforms
+*   🤖 **Agentic Frameworks:** Multi-model orchestrations, neural routing & LangGraph systems
+*   🔒 **Low-Level Hardening:** Kernel network filters via eBPF/XDP bypass routing
+*   💼 **Fintech Telemetry:** Netsuite/ERP sharded workflows and audit ledger architectures
+*   🚀 **Incubation Governance:** Guided 6 tech cohorts (1,500+ products analyzed)
 
 <br clear="right"/>
 
 ---
 
-## 02 // CORE COMPETENCIES
+## [ 02 // COGNITIVE SKILLSET & SYSTEM MATRICES ]
 
 <div align="center">
 
-**[ Enterprise & Project Infrastructure ]**
+### [ CORE LANGUAGES ]
+```
+[C / Linux Kernel]  [Python / FastAPI]  [TypeScript / React]  [JavaScript]  [Go / Rust]  [SQL / PG-Dialect]
+```
 
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0ea5e9?style=flat-square)
-![SAFe](https://img.shields.io/badge/SAFe-7c3aed?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-f97316?style=flat-square)
-![PLM](https://img.shields.io/badge/Product_Lifecycle_Mgmt-10b981?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC_Optimization-f59e0b?style=flat-square)
-![Risk](https://img.shields.io/badge/Strategic_Risk_Mitigation-ef4444?style=flat-square)
+### [ AI & NEURAL INFERENCE ENGINE ]
+```
+[LangGraph Stateful DAGs]    [CrewAI Agentic Mesh]    [Pipecat Real-Time Streams]
+[Gemini 2.5/3.1 Multimodal]   [OpenRouter APIs / GPT]   [Claude 3.5 Sonnet Engine]
+[pgvector Vector Database]   [Cohere Re-Rank Logic]   [OpenCV Vision Pipelines]
+```
 
-**[ AI & LLM Orchestration ]**
+### [ SYSTEM INFRASTRUCTURE & NETWORK SECURITY ]
+```
+[eBPF / XDP Kernel Program]  [HAProxy Route Draining] [LiveKit WebRTC Matrix]
+[Docker / Compose Sandbox]   [Kubernetes Orchestration] [Tailscale / WireGuard Tunnel]
+[PostgreSQL Partitioning]    [Redis In-Memory Queuing]  [Cloudflare WAF / DNS / R2]
+```
 
-![GenAI](https://img.shields.io/badge/Generative_AI_Architecture-7c3aed?style=flat-square&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square)
-![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-0ea5e9?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vertex](https://img.shields.io/badge/Vertex_AI-34A853?style=flat-square&logo=googlecloud&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Fine--Tuning-f97316?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-ef4444?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-10b981?style=flat-square)
+### [ SECURE PENTESTING & RECONNAISSANCE ]
+```
+[Kali Linux Pentest Suites]  [Nmap Network Scanning]   [Scrapy Crawler Bots]
+[Wireshark Packet Analysis]  [OSINT Search Routines]   [Zero-Trust VPN Mesh]
+```
 
-**[ Financial Systems Engineering ]**
-
-![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-f97316?style=flat-square)
-![QuickBooks](https://img.shields.io/badge/QuickBooks-10b981?style=flat-square)
-![Xero](https://img.shields.io/badge/Xero-0ea5e9?style=flat-square)
-![Drake](https://img.shields.io/badge/Drake_Tax-7c3aed?style=flat-square)
-![Stripe](https://img.shields.io/badge/Stripe_Billing_API-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Telemetry](https://img.shields.io/badge/Financial_Telemetry_Pipelines-f59e0b?style=flat-square)
-
-**[ Software Engineering & Microservices ]**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Sharding-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**[ Cloud Infrastructure & DevOps ]**
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![IaC](https://img.shields.io/badge/Infrastructure_as_Code-7c3aed?style=flat-square)
-![Zero-Trust](https://img.shields.io/badge/Zero--Trust_VPN-ef4444?style=flat-square)
-
-**[ Cybersecurity & Infrastructure Hardening ]**
-
-![eBPF](https://img.shields.io/badge/eBPF%2FXDP_Kernel_Enforcement-f97316?style=flat-square&logo=linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux_SecOps-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT_Analytics-10b981?style=flat-square)
-![PenTest](https://img.shields.io/badge/Penetration_Testing-ef4444?style=flat-square)
-![Threat](https://img.shields.io/badge/Threat_Remediation-0ea5e9?style=flat-square)
-![Audit](https://img.shields.io/badge/Network_Security_Auditing-f59e0b?style=flat-square)
+### [ ENTERPRISE LOGISTICS & FINANCIAL AUDITS ]
+```
+[Oracle NetSuite SuiteScript] [QuickBooks Integrations] [Xero Billing API Core]
+[Drake Tax & Lacerte SaaS]   [Stripe Payment Portals]  [Local Mobile Wallet APIs]
+```
 
 </div>
 
 ---
 
-## 03 // ACTIVE ROLES
+## [ 03 // RUNTIME ACTIVE ROLES ]
 
 <div align="center">
 
-| Role | Organization | Period | Domain |
-|:----:|:------------:|:------:|:------:|
-| **Chief Technology Officer** | ServePro BPO · Remote, USA | Aug 2024 – Present | AI Infrastructure · FinTech |
-| **Incubation Manager** | NICs Sukkur · PITB | Jan 2021 – Nov 2024 | B2G · Deep Tech Cohorts |
-| **IT Manager** | Corporate IT · Saudi Arabia | Previous | ERP · Cloud · Networking |
-| **CSO (Advisory)** | SindhCounts · AIM Tech · BUIDL | Ongoing | ERP · Agile · NFT |
+| Role | Target System / Node | Operational Epoch | Vector Domain |
+|:---|:---:|:---:|:---:|
+| **Chief Technology Officer** | ServePro BPO · USA | 2024 – Present | AI Infrastructure · FinTech Billing |
+| **Incubation Manager** | NICs Sukkur · PITB | 2021 – 2024 | B2G Innovation · Startup Cohorts |
+| **IT Systems Manager** | Corporate IT · KSA | Previous | ERP Integrations · Cloud Architecture |
+| **CSO (Advisory Node)** | SindhCounts · AIM Tech · BUIDL | Ongoing | Zero-Trust Auditing · Agile Systems |
 
 </div>
 
 ---
 
-## 04 // FLAGSHIP PROJECTS
+## [ 04 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS ]
 
 <div align="center">
 
-[![SRP](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=sovereign-root-protocol&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&icon_color=f97316&bg_color=0d1117)](https://github.com/gnonymous1/sovereign-root-protocol)
+[![SRP](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=sovereign-root-protocol&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913)](https://github.com/gnonymous1/sovereign-root-protocol)
+[![Aspiration-Academy](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=Aspiration-Academy&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913)](https://github.com/gnonymous1/Aspiration-Academy)
 
 </div>
 
 ```
-// DEPLOYED SYSTEMS & ENTERPRISE ARCHITECTURE
-
-╔═══════════════════════════════════════════════════════════════════════╗
-║  🛡️  SOVEREIGN ROOT PROTOCOL                              [OPEN SOURCE] ║
-║  ─────────────────────────────────────────────────────────────────── ║
-║  AI traffic validation gateway · eBPF/XDP kernel enforcement          ║
-║  Semantic scoring · mTLS cluster mesh · SHA-256 audit ledger           ║
-║  Stack: Python · FastAPI · C · eBPF · Docker · Kubernetes · HAProxy   ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  🚔  NHMP E-TICKETING INTELLIGENCE PLATFORM               [B2G · LIVE] ║
-║  ─────────────────────────────────────────────────────────────────── ║
-║  High-throughput analytics · Next.js + Streamlit · Gemini API NLP     ║
-║  Containerized B2G microservices · National Highways & Motorway Police ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  🤖  APEX CONTENT OS V7.0 & AGENTIC_POC                [SAAS · LIVE] ║
-║  ─────────────────────────────────────────────────────────────────── ║
-║  Multi-model AI orchestration · FastAPI + LangGraph · Self-healing     ║
-║  Stripe billing · Streaming metrics · Production containerized cloud   ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  🔍  RECONPORTAL & VALKYRIE OSINT SUITE               [SECURITY TOOL] ║
-║  ─────────────────────────────────────────────────────────────────── ║
-║  Offensive security utility · Cognitive engine analytics               ║
-║  Kernel networking · Headless extraction · Automated pen vectors       ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║  🏦  CLOUD ERP PORTFOLIO                            [ENTERPRISE · B2B] ║
-║  ─────────────────────────────────────────────────────────────────── ║
-║  Oracle NetSuite · QuickBooks · Xero · Drake · Lacerte SaaS            ║
-║  Multi-tenant, compliant · 100+ enterprise corporate accounts          ║
-╚═══════════════════════════════════════════════════════════════════════╝
++-------------------------------------------------------------------------------+
+| 🛡️ sovereign-root-protocol | eBPF/XDP network traffic filter   [PUBLIC]       |
+|   - Kernel-level packet filter (C), FastAPI controller (Python).              |
+|   - Real-time compliance scoring with sentence-transformers.                 |
+|   - Stack: C · Python · eBPF · HAProxy · Docker · Kubernetes                  |
++-------------------------------------------------------------------------------+
+| 🎓 Aspiration-Academy      | AI Civil Service Prep Platform     [PUBLIC]       |
+|   - Next.js 15 app router web app + FastAPI backend.                          |
+|   - LangGraph multi-agent subjective evaluator & SM-2 Leitner Spaced Rep.     |
+|   - Stack: TypeScript · Next.js · Python · pgvector · Supabase · Redis        |
++-------------------------------------------------------------------------------+
+| 🤖 Agentic_PoC (GNONE)     | Sovereign Executive Voice Proxy    [PRIVATE]      |
+|   - LiveKit / WebRTC meeting bot with Gemini audio preview & custom clone.   |
+|   - Asymmetric critic loop (Nemotron Critic) and multi-channel publisher.     |
+|   - Stack: Python · LiveKit · Recall.ai · Streamlit · PostgreSQL · Redis      |
++-------------------------------------------------------------------------------+
+| 🔍 ReconPortal & Valkyrie  | OSINT Recon & Target Intel Suite   [PUBLIC]       |
+|   - Cognitive intelligence suite for vulnerability assessment.                |
+|   - Automated OSINT data gathering and network map extraction.                |
+|   - Stack: Python · FastAPI · Scrapy · Nmap · SQLite · Docker                 |
++-------------------------------------------------------------------------------+
+| 🌐 CameraGPT & WAIFI       | Multimodal Surveillance & VPN Mesh  [PUBLIC]      |
+|   - CameraGPT: Real-time surveillance RTSP feed processor with Gemini.        |
+|   - WAIFI: Secure Tailwind/Tailscale dashboard for local network VPN mesh.     |
+|   - Stack: Python · TS · Next.js · Tailscale/WireGuard API · OpenCV · SQLite   |
++-------------------------------------------------------------------------------+
 ```
 
 ---
 
-## 05 // GITHUB ACTIVITY
+## [ 05 // ACTIVITY METRICS ]
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=64748b" width="68%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=tokyonight&border=00f0ff&background=060913&ring=00ff66&fire=00f0ff&currStreakLabel=00ff66&sideLabels=e2e8f0&dates=64748b" width="68%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=a78bfa&bg_color=0d1117&text_color=e2e8f0&langs_count=8&hide_border=false" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=tokyonight&border_color=00f0ff&title_color=00ff66&bg_color=060913&text_color=e2e8f0&langs_count=8&hide_border=false" width="45%"/>
 
 </div>
 
 ---
 
-## 06 // CREDENTIALS
-
-<div align="center">
-
-| Credential | Issuer | Verification |
-|:----------:|:------:|:------------:|
-| 🎓 B.S. Computer Science | Shah Abdul Latif University, Khairpur | — |
-| 📋 Google Project Management Professional | Google / Coursera | [Verify ↗](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698) |
-| 🤖 Generative AI Leader Certification | Google Cloud / Gen AI Academy APAC | Verified |
-| 🚀 Agile & Project Management | McKinsey Forward Program (Space Miners) | Verified |
-
-</div>
-
----
-
-## 07 // ECOSYSTEM DIRECTIVES
+## [ 06 // SYSTEM SIGNALS & ECOSYSTEM INGRESS ]
 
 ```
-[ GOVERNMENT & NATIONAL SCALE ]
-  ▸ Technical lead — National Idea Bank evaluation & scoring systems
+[ GOVERNMENT / NATIONAL DEPLOYS ]
+  ▸ System Lead — National Idea Bank evaluation & scoring database
   ▸ Chief Director — 1st International Sindh Tech Conference
-  ▸ B2G policy alignment: MoITT · PITB · NIC Karachi · Sukkur IBA University
-  ▸ Accelerated $2M in private venture funding via performance signal translation
+  ▸ Policy Alignment: MoITT · PITB · NIC Karachi · Sukkur IBA University
+  ▸ Facilitated $2M private funding translations via data telemetry metrics
 
-[ STARTUP INCUBATION ]
-  ▸ Governed 6 Agile cohorts · Audited 1,500+ deep-tech products
-  ▸ Mentor & Judge: CraftiFem · WISE · EmpowerTech social enterprise initiatives
-  ▸ Coached teams on data lake methods · CRM pipelines · hyper-automated logic
+[ INCUBATION LAB LOGS ]
+  ▸ Coached 6 Agile cohorts · Systems audit of 1,500+ technical assets
+  ▸ Systems Mentor: CraftiFem · WISE · EmpowerTech local tech expansions
+  ▸ Managed scalable data lake ingestions & CRM triggers for startup networks
 
-[ OPEN SOURCE & RESEARCH ]
-  ▸ Sovereign Root Protocol — AI enforcement infrastructure (public)
-  ▸ Autonomous agentic R&D (AGENTIC_POC) — self-healing code compilation
-  ▸ Cybersecurity tooling — kernel networking + OSINT automation
+[ CREDENTIALS & TRUST NODES ]
+  ▸ B.S. Computer Science — Shah Abdul Latif University, Khairpur
+  ▸ Google Professional Project Manager Certificate (Verified)
+  ▸ Generative AI Leader — Google Cloud Academy APAC (Verified)
+  ▸ Agile Transformation — McKinsey Forward Space Miners (Verified)
 ```
 
 ---
 
 <div align="center">
 
-**Open to:** AI safety infrastructure · eBPF/kernel networking · Enterprise security tooling · B2G digital transformation
+```
+Establish secure link? [Y/N]
+> Y
+Connecting to secure gateways...
+```
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
-[![Email](https://img.shields.io/badge/Email-49105154%2Bgnonymous1%40users.noreply.github.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:49105154+gnonymous1@users.noreply.github.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SECURE_TUNNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
+[![Email](https://img.shields.io/badge/EMAIL-ROOT_GATEWAY-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:49105154+gnonymous1@users.noreply.github.com)
 
 <br/>
 
@@ -248,6 +209,6 @@ Expert at cross-pollinating **business lifecycle management** with data telemetr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e446c,50:05182e,100:020813&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002b3c,60:001a24,100:000a0f&height=80&section=footer" width="100%"/>
 
 </div>
