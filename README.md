@@ -1,40 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000a0f,40:001a24,100:002b3c&height=180&section=header&text=%5B%20GNONYMOUS1%20%5D&fontSize=42&fontColor=00f0ff&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20%7C%20CTO%20%7C%20CYBERNETIC%20ENGINEER&descSize=14&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=200&section=header&text=%5Broot%40gnonymous1%5D%23%20decrypt%20--active-sessions&fontSize=30&fontColor=00ff66&desc=%3E%20SYSTEM%20ACCESS%20GRANTED%20%7C%20CTO%20%7C%20AI%20%26%20KERNEL%20ENGINEER&descSize=14&descAlignY=65" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
-[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/gnonymous1)
-[![Term](https://img.shields.io/badge/TERMINAL-ACTIVE-00ff66?style=for-the-badge&labelColor=0d1117)](#)
-[![Loc](https://img.shields.io/badge/LOCATION-PAKISTAN-10b981?style=for-the-badge&labelColor=0d1117)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/gnonymous1)
+[![Term](https://img.shields.io/badge/TERMINAL-ACTIVE-00ff66?style=for-the-badge&labelColor=000000)](#)
+[![Loc](https://img.shields.io/badge/LOCATION-PAKISTAN-10b981?style=for-the-badge&labelColor=000000)](#)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=00f0ff&label=SYSTEM+ACCESSES&labelColor=0d1117)](https://github.com/gnonymous1)
-[![Google PM](https://img.shields.io/badge/Google_PM-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
-[![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-APAC_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0d1117)](#)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                   [root@gnonymous1] // SYSTEM DIAGNOSTICS: RUNNING           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  CTO & Systems Architect  ─────►  ServePro BPO  (Remote, USA)  [ACTIVE]      ║
-║  Incubation Manager       ─────►  NICs Sukkur, PITB (Pakistan) [2021-2024]   ║
-║  Kernel & AI Infra Lead   ─────►  Sovereign Root Protocol (SRP)              ║
-║  Advisory & CSO Roles     ─────►  SindhCounts · AIM Tech · BUIDL             ║
-║                                                                              ║
-║  Firmware Hash:           0x8F9C4A2B7E1D3F06... (SHA-256 Verified)           ║
-║  Interface Mode:          Zero-Trust eBPF / XDP Kernel Network Filters       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=00ff66&label=SYSTEM+ACCESSES&labelColor=000000)](https://github.com/gnonymous1)
+[![Google PM](https://img.shields.io/badge/Google_PM-Verified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
+[![GenAI Leader](https://img.shields.io/badge/GenAI_Leader-APAC_Cloud-34A853?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)](#)
 
 </div>
 
@@ -42,10 +21,10 @@
 
 ## [ 01 // EXECUTIVE DOSSIER ]
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913&text_color=e2e8f0&hide_border=false&count_private=true"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000&text_color=e2e8f0&hide_border=false&count_private=true"/>
 
 ```text
-Initialize session...
+======================= SYSTEM SESSION START =======================
 Decrypting Executive Profile...
 [SUCCESS] dossier loaded.
 ```
@@ -61,39 +40,81 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 ---
 
-## [ 02 // COGNITIVE SKILLSET & SYSTEM MATRICES ]
+## [ 02 // TECHNICAL DEPLOYMENT MATRIX ]
 
 <div align="center">
 
+```
+====================== CORE SYSTEM SPECS & SKILLSET ======================
+```
+
 ### [ CORE LANGUAGES ]
 ```
-[C / Linux Kernel]  [Python / FastAPI]  [TypeScript / React]  [JavaScript]  [Go / Rust]  [SQL / PG-Dialect]
+[C / C++] ──────────► Linux Kernel, Networking, and Performance Optimization
+[Python] ───────────► FastAPI, PyTorch, Streamlit, Automation, and Scripting
+[TypeScript] ───────► Next.js 15, Node.js, and Type-Safe Web Architectures
+[JavaScript] ───────► React, ES6+, Web APIs, and Legacy Service Workers
+[Go / Rust] ────────► Low-Latency Services and Systems Level Tooling
+[SQL / PL-SQL] ─────► PostgreSQL Sharding, RLS Policies, and Query Tuning
+[Bash / PowerShell] ► Infrastructure Automation, Deployment, and CLI Scripts
 ```
 
-### [ AI & NEURAL INFERENCE ENGINE ]
+### [ OPERATING SYSTEMS & CLOUD PLATFORMS ]
 ```
-[LangGraph Stateful DAGs]    [CrewAI Agentic Mesh]    [Pipecat Real-Time Streams]
-[Gemini 2.5/3.1 Multimodal]   [OpenRouter APIs / GPT]   [Claude 3.5 Sonnet Engine]
-[pgvector Vector Database]   [Cohere Re-Rank Logic]   [OpenCV Vision Pipelines]
-```
-
-### [ SYSTEM INFRASTRUCTURE & NETWORK SECURITY ]
-```
-[eBPF / XDP Kernel Program]  [HAProxy Route Draining] [LiveKit WebRTC Matrix]
-[Docker / Compose Sandbox]   [Kubernetes Orchestration] [Tailscale / WireGuard Tunnel]
-[PostgreSQL Partitioning]    [Redis In-Memory Queuing]  [Cloudflare WAF / DNS / R2]
+[GNU/Linux] ────────► Ubuntu Server, Debian, and Custom eBPF Sandbox Kernels
+[WSL2 / Windows] ───► Local Development Environments and System Services
+[VMware ESXi] ──────► Enterprise-Grade Bare-Metal Hypervisor Virtualization
+[Google Cloud (GCP)] ► Vertex AI, Cloud Functions, and Compute Engine Deployments
+[Microsoft Azure] ──► Distributed Active Directory and Enterprise Networking
+[Cloudflare] ───────► WAF, CDN, DNS Routing, R2 Storage, and Workers
 ```
 
-### [ SECURE PENTESTING & RECONNAISSANCE ]
+### [ AI & NEURAL ORCHESTRATION CORES ]
 ```
-[Kali Linux Pentest Suites]  [Nmap Network Scanning]   [Scrapy Crawler Bots]
-[Wireshark Packet Analysis]  [OSINT Search Routines]   [Zero-Trust VPN Mesh]
+[LangGraph] ────────► Stateful Multi-Agent Orchestration & Feedback Graphs
+[CrewAI] ───────────► Autonomous Agentic Mesh Networks & Task Management
+[Pipecat] ──────────► Real-Time Voice/Vision Conversational Agents over WebRTC
+[Gemini Live API] ──► Direct WebSocket native binary audio/vision streams
+[Gemini 1.5/2.5/3.1] ► High-context reasoning, Flash models, and Vision
+[OpenAI / GPT-4o] ──► Logical parsing, grammar audits, and data extraction
+[Claude 3.5 Sonnet] ─► Advanced structural writing and essay critiques
+[Sentence-Trans.] ──► Local text embeddings (all-MiniLM-L6-v2) for security
+[pgvector / HNSW] ──► High-performance vector similarity search in Postgres
+[Cohere Re-Rank] ───► Reciprocal rank fusion for RAG pipeline optimization
+[OpenCV / PyTorch] ─► Multimodal computer vision & real-time frame processing
 ```
 
-### [ ENTERPRISE LOGISTICS & FINANCIAL AUDITS ]
+### [ MICROSERVICES, REAL-TIME & WEB STACK ]
 ```
-[Oracle NetSuite SuiteScript] [QuickBooks Integrations] [Xero Billing API Core]
-[Drake Tax & Lacerte SaaS]   [Stripe Payment Portals]  [Local Mobile Wallet APIs]
+[FastAPI] ──────────► Asynchronous Python API Gateways with Pydantic contracts
+[Next.js 15] ───────► App Router, RSC, Framer Motion, and Glassmorphism UI
+[Streamlit] ────────► Real-Time AI Administrative and Neuro-Symbolic Panels
+[WebRTC / WSS] ─────► Low-latency audio/video binary WebSockets & WebRTC
+[Recall.ai API] ────► Headless Chromium container provisioning for virtual meetings
+[LiveKit Server] ───► WebRTC SFU server orchestration and room management
+[Redis Cluster] ────► Idempotent job queues, Leitner states, and session caches
+[PostgreSQL] ───────► Partitioning, RLS (Row-Level Security), and sharding
+[Node.js / Express] ─► Backend tooling, Next.js hydration, and scripting
+```
+
+### [ KERNEL SYSTEMS, NETWORKING & SECURITY ]
+```
+[eBPF / XDP] ───────► Pre-kernel packet drop/pass filters on Linux interfaces
+[HAProxy] ──────────► Load balancing, admin draining, and node weight control
+[Tailscale / WG] ───► Zero-Trust VPN mesh networks and gateway routing
+[mTLS / SSL] ───────► Secure cluster meshes, cert authority, and SSL trust
+[Kali Linux] ───────► Offensive security testing, kernel hardening, and audits
+[Nmap / Wireshark] ─► Network scanning, port mapping, and packet inspection
+[Scrapy / Crawler] ─► Automated data extraction engines & document crawling
+```
+
+### [ ENTERPRISE INTEGRATIONS & BILLING SYSTEMS ]
+```
+[Oracle NetSuite] ──► SuiteScript 2.0 sharded workflows, B2B ERP setups
+[QuickBooks / Xero] ─► Corporate accounting sync and billing automations
+[Drake / Lacerte] ──► Tax preparation systems & SaaS tax auditing workflows
+[Stripe Billing] ───► Global subscription models, webhooks, and billing APIs
+[JazzCash/Easypaisa] ► Local Pakistani mobile wallet integrations & gateways
 ```
 
 </div>
@@ -119,8 +140,8 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 <div align="center">
 
-[![SRP](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=sovereign-root-protocol&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913)](https://github.com/gnonymous1/sovereign-root-protocol)
-[![Aspiration-Academy](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=Aspiration-Academy&theme=tokyonight&border_color=00f0ff&title_color=00ff66&icon_color=00f0ff&bg_color=060913)](https://github.com/gnonymous1/Aspiration-Academy)
+[![SRP](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=sovereign-root-protocol&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000)](https://github.com/gnonymous1/sovereign-root-protocol)
+[![Aspiration-Academy](https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=Aspiration-Academy&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000)](https://github.com/gnonymous1/Aspiration-Academy)
 
 </div>
 
@@ -159,11 +180,11 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=tokyonight&border=00f0ff&background=060913&ring=00ff66&fire=00f0ff&currStreakLabel=00ff66&sideLabels=e2e8f0&dates=64748b" width="68%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=dark&border=00ff66&background=000000&ring=00ff66&fire=00f0ff&currStreakLabel=00ff66&sideLabels=e2e8f0&dates=64748b" width="68%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=tokyonight&border_color=00f0ff&title_color=00ff66&bg_color=060913&text_color=e2e8f0&langs_count=8&hide_border=false" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=00ff66&title_color=00ff66&bg_color=000000&text_color=e2e8f0&langs_count=8&hide_border=false" width="45%"/>
 
 </div>
 
@@ -200,8 +221,8 @@ Establish secure link? [Y/N]
 Connecting to secure gateways...
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SECURE_TUNNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/gnkalhoro)
-[![Email](https://img.shields.io/badge/EMAIL-ROOT_GATEWAY-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:49105154+gnonymous1@users.noreply.github.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SECURE_TUNNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
+[![Email](https://img.shields.io/badge/EMAIL-ROOT_GATEWAY-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:49105154+gnonymous1@users.noreply.github.com)
 
 <br/>
 
@@ -209,6 +230,6 @@ Connecting to secure gateways...
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002b3c,60:001a24,100:000a0f&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=100&section=footer&text=%5Broot%40gnonymous1%5D%23%20session%20--close" width="100%"/>
 
 </div>
