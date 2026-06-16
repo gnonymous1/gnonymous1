@@ -29,7 +29,7 @@
 ║   CTO  ──────────────────────────────────  ServePro BPO   (Remote, USA)     ║
 ║   Incubation Manager  ───────────────────  NICs Sukkur, PITB (Pakistan)     ║
 ║   Enterprise Solutions Architect  ───────  Multi-sector B2G & Corporate     ║
-║   CSO (Advisory)  ───────────────────────  SindhCounts · AIM Tech · BUIDL  ║
+ ║
 ║                                                                              ║
 ║   Stack Fingerprint:  Python · FastAPI · Next.js · eBPF/XDP · GCP · Azure  ║
 ║   AI Footprint:       LangGraph · RAG · Gemini API · LLM Tuning · Vertex   ║
