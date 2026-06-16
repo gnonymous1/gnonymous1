@@ -25,7 +25,9 @@
 
 ## [ 01 // EXECUTIVE DOSSIER ]
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000&text_color=00ff66&hide_border=false&count_private=true"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top">
 
 ```text
 ======================= SYSTEM SESSION START =======================
@@ -40,7 +42,9 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 *   💼 **Fintech Telemetry:** Netsuite/ERP sharded workflows and audit ledger architectures
 *   🚀 **Incubation Governance:** Guided 6 tech cohorts (1,500+ products analyzed)
 
-<br clear="right"/>
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -141,22 +145,7 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 ---
 
-## [ 03 // RUNTIME ACTIVE ROLES ]
-
-<div align="center">
-
-| Role | Target System / Node | Operational Epoch | Vector Domain |
-|:---|:---:|:---:|:---:|
-| **Chief Technology Officer** | ServePro BPO · USA | 2024 – Present | AI Infrastructure · FinTech Billing |
-| **Incubation Manager** | NICs Sukkur · PITB | 2021 – 2024 | B2G Innovation · Startup Cohorts |
-| **IT Systems Manager** | Corporate IT · KSA | Previous | ERP Integrations · Cloud Architecture |
-| **CSO (Advisory Node)** | SindhCounts · AIM Tech · BUIDL | Ongoing | Zero-Trust Auditing · Agile Systems |
-
-</div>
-
----
-
-## [ 04 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS ]
+## [ 03 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS ]
 
 <div align="center">
 
@@ -196,15 +185,25 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 ---
 
-## [ 05 // ACTIVITY METRICS ]
+## [ 04 // ACTIVITY METRICS ]
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=dark&border=00ff66&background=000000&ring=00ff66&fire=00f0ff&currStreakLabel=00ff66&sideLabels=e2e8f0&dates=64748b" width="68%"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000&text_color=00ff66&hide_border=false&count_private=true" width="410px" alt="GitHub Stats"/>
+    </td>
+    <td width="20px"></td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=dark&border=00ff66&background=000000&ring=00ff66&fire=00f0ff&currStreakLabel=00ff66&sideLabels=e2e8f0&dates=64748b" width="410px" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=00ff66&title_color=00ff66&bg_color=000000&text_color=00ff66&langs_count=8&hide_border=false" width="45%"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=00ff66&title_color=00ff66&bg_color=000000&text_color=00ff66&langs_count=8&hide_border=false" width="45%" alt="Top Languages"/>
 
 <br/><br/>
 
@@ -214,7 +213,7 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 ---
 
-## [ 06 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS ]
+## [ 05 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS ]
 
 ```
 [ PROFESSIONAL CERTIFICATIONS & VALIDATED SKILLS ]
