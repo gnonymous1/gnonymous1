@@ -1,19 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=200&section=header&text=%5Broot%40gnonymous1%5D%23%20decrypt%20--active-sessions&fontSize=30&fontColor=00ff66&desc=%3E%20SYSTEM%20ACCESS%20GRANTED%20%7C%20CTO%20%7C%20AI%20%26%20KERNEL%20ENGINEER&descSize=14&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=%5B%20GNONYMOUS1%20%5D&fontSize=42&fontColor=00ff66&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20%7C%20CTO%20%7C%20CYBERNETIC%20ENGINEER&descSize=14&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
-[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/gnonymous1)
-[![Term](https://img.shields.io/badge/TERMINAL-ACTIVE-00ff66?style=for-the-badge&labelColor=000000)](#)
-[![Loc](https://img.shields.io/badge/LOCATION-PAKISTAN-10b981?style=for-the-badge&labelColor=000000)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=600&height=80&lines=%5Broot%40gnonymous1%5D%23+decrypt+--dossier;%3E+INITIALIZING+NEURAL+ROUTERS...;%3E+eBPF+KERNEL+FILTERS+ACTIVE;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Terminal Typing" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=for-the-badge&color=00ff66&label=SYSTEM+ACCESSES&labelColor=000000)](https://github.com/gnonymous1)
-[![PM Cert](https://img.shields.io/badge/Project_Management-Verified-00ff66?style=for-the-badge&labelColor=000000)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
-[![AI Leader](https://img.shields.io/badge/AI_Leader-APAC_Cloud-34A853?style=for-the-badge&labelColor=000000)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-00f0ff?style=flat-square&logo=github&logoColor=00f0ff&labelColor=000000)](https://github.com/gnonymous1)
+[![Term](https://img.shields.io/badge/TERMINAL-ACTIVE-00ff66?style=flat-square&logo=linux&logoColor=00ff66&labelColor=000000)](#)
+[![Loc](https://img.shields.io/badge/LOCATION-PAKISTAN-10b981?style=flat-square&labelColor=000000)](#)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=flat-square&color=00ff66&label=SYSTEM+ACCESSES&labelColor=000000)](https://github.com/gnonymous1)
+[![PM Cert](https://img.shields.io/badge/PROJECT_MANAGEMENT-VERIFIED-00ff66?style=flat-square&labelColor=000000)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
+[![AI Leader](https://img.shields.io/badge/AI_LEADER-APAC_CLOUD-34A853?style=flat-square&labelColor=000000)](#)
 
 </div>
 
@@ -21,7 +25,7 @@
 
 ## [ 01 // EXECUTIVE DOSSIER ]
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000&text_color=e2e8f0&hide_border=false&count_private=true"/>
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=00ff66&title_color=00ff66&icon_color=00f0ff&bg_color=000000&text_color=00ff66&hide_border=false&count_private=true"/>
 
 ```text
 ======================= SYSTEM SESSION START =======================
@@ -200,7 +204,11 @@ Highly accomplished **Enterprise IT Expert & Solutions Architect** specializing 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=00ff66&title_color=00ff66&bg_color=000000&text_color=e2e8f0&langs_count=8&hide_border=false" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=00ff66&title_color=00ff66&bg_color=000000&text_color=00ff66&langs_count=8&hide_border=false" width="45%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gnonymous1&theme=react-dark&bg_color=000000&color=00ff66&line=00f0ff&point=00ff66&area=true&hide_border=false" width="80%" alt="Activity Graph"/>
 
 </div>
 
@@ -238,8 +246,8 @@ Establish secure link? [Y/N]
 Connecting to secure gateways...
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SECURE_TUNNEL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
-[![Email](https://img.shields.io/badge/EMAIL-ROOT_GATEWAY-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:49105154+gnonymous1@users.noreply.github.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-SECURE_TUNNEL-0A66C2?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=000000)](https://linkedin.com/in/gnkalhoro)
+[![Email](https://img.shields.io/badge/EMAIL-ROOT_GATEWAY-EA4335?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=000000)](mailto:49105154+gnonymous1@users.noreply.github.com)
 
 <br/>
 
@@ -247,6 +255,6 @@ Connecting to secure gateways...
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=terminal&color=000000&height=100&section=footer&text=%5Broot%40gnonymous1%5D%23%20session%20--close" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=%5Broot%40gnonymous1%5D%23%20session%20--close&fontSize=24&fontColor=00ff66&animation=fadeIn" width="100%"/>
 
 </div>
