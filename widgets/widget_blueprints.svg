@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="220" viewBox="0 0 850 220" fill="none">
+  <style>
+    .card {
+      font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
+      background: #000000;
+      border: 1px solid #ff0055;
+      border-radius: 6px;
+      box-sizing: border-box;
+      padding: 15px 20px;
+      width: 848px;
+      height: 218px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid #27272a;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      height: 25px;
+    }
+    .dots {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .dot-red { background: #ef4444; }
+    .dot-yellow { background: #eab308; }
+    .dot-green { background: #22c55e; }
+    .title {
+      color: #00f0ff;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+    .status {
+      color: #ff0055;
+      font-size: 10px;
+      font-weight: bold;
+    }
+    .content {
+      color: #ffffff;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+    .key { color: #00f0ff; }
+    .val { color: #00ff66; }
+    .comment { color: #71717a; }
+    .bullet { color: #ff0055; margin-right: 5px; }
+    .highlight { color: #eab308; }
+    .table-container {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 5px;
+    }
+    .table-header {
+      color: #00f0ff;
+      border-bottom: 1px solid #ff0055;
+      text-align: left;
+      font-size: 11px;
+      padding: 4px 8px;
+    }
+    .table-cell {
+      padding: 6px 8px;
+      border-bottom: 1px solid #27272a;
+      font-size: 11px;
+      color: #e4e4e7;
+    }
+    .table-cell-bold {
+      color: #00ff66;
+      font-weight: bold;
+    }
+  </style>
+  <foreignObject x="0" y="0" width="850" height="220">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="card">
+      <div class="header">
+        <div class="dots">
+          <div class="dot dot-red"></div>
+          <div class="dot dot-yellow"></div>
+          <div class="dot dot-green"></div>
+        </div>
+        <div class="title">[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]</div>
+        <div class="status">NODES: MAP_VERIFIED</div>
+      </div>
+      <div class="content">
+        
+<div style="margin-top: 5px; font-size: 11px;">
+  <table class="table-container">
+    <tr>
+      <th class="table-header" style="width: 25%; font-size: 10px;">REPOSITORY / NODE</th>
+      <th class="table-header" style="width: 45%; font-size: 10px;">ARCHITECTURE &amp; STACK ROLE</th>
+      <th class="table-header" style="width: 15%; font-size: 10px;">VISIBILITY</th>
+      <th class="table-header" style="width: 15%; font-size: 10px;">STACK STATUS</th>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">sovereign-root-protocol</td>
+      <td class="table-cell">eBPF/XDP filter (C) &middot; FastAPI (Python) &middot; HAProxy mesh</td>
+      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00ff66;">Active</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">Aspiration-Academy</td>
+      <td class="table-cell">Next.js 15 &middot; Python FastAPI &middot; LangGraph subjective AI prep</td>
+      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00ff66;">Active</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">Agentic_PoC (GNONE)</td>
+      <td class="table-cell">LiveKit WebRTC clone bot &middot; Recall.ai container &middot; Streamlit</td>
+      <td class="table-cell" style="color: #ef4444;">[PRIVATE]</td>
+      <td class="table-cell" style="color: #00ff66;">Secured</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">ReconPortal / Valkyrie</td>
+      <td class="table-cell">OSINT data extraction crawlers &middot; Network Nmap mapper &middot; Docker</td>
+      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00ff66;">Active</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">CameraGPT / WAIFI</td>
+      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &middot; Tailscale VPN</td>
+      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00ff66;">Active</td>
+    </tr>
+  </table>
+</div>
+
+      </div>
+    </div>
+  </foreignObject>
+</svg>

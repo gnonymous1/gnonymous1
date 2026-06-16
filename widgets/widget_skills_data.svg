@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="240" viewBox="0 0 410 240" fill="none">
+  <style>
+    .card {
+      font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
+      background: #000000;
+      border: 1px solid #ff0055;
+      border-radius: 6px;
+      box-sizing: border-box;
+      padding: 15px 20px;
+      width: 408px;
+      height: 238px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid #27272a;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      height: 25px;
+    }
+    .dots {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .dot-red { background: #ef4444; }
+    .dot-yellow { background: #eab308; }
+    .dot-green { background: #22c55e; }
+    .title {
+      color: #00f0ff;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+    .status {
+      color: #ff0055;
+      font-size: 10px;
+      font-weight: bold;
+    }
+    .content {
+      color: #ffffff;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+    .key { color: #00f0ff; }
+    .val { color: #00ff66; }
+    .comment { color: #71717a; }
+    .bullet { color: #ff0055; margin-right: 5px; }
+    .highlight { color: #eab308; }
+    .table-container {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 5px;
+    }
+    .table-header {
+      color: #00f0ff;
+      border-bottom: 1px solid #ff0055;
+      text-align: left;
+      font-size: 11px;
+      padding: 4px 8px;
+    }
+    .table-cell {
+      padding: 6px 8px;
+      border-bottom: 1px solid #27272a;
+      font-size: 11px;
+      color: #e4e4e7;
+    }
+    .table-cell-bold {
+      color: #00ff66;
+      font-weight: bold;
+    }
+  </style>
+  <foreignObject x="0" y="0" width="410" height="240">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="card">
+      <div class="header">
+        <div class="dots">
+          <div class="dot dot-red"></div>
+          <div class="dot dot-yellow"></div>
+          <div class="dot dot-green"></div>
+        </div>
+        <div class="title">[ DATA SCIENCE &amp; ML ]</div>
+        <div class="status">KERN: LOADED</div>
+      </div>
+      <div class="content">
+        
+<div style="margin-top: 5px;">
+  <span class="key">class</span> <span class="val">DataScienceCore</span>:<br/>
+  &nbsp;&nbsp;<span class="key">def</span> <span class="val">__init__</span>(self):<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">pipeline</span> = <span class="val">"Feature Engineering"</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">ml_modules</span> = [<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"PyTorch Neural Nets"</span>,<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Sentence-Transformers"</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;]<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">vector_search</span> = <span class="val">"pgvector HNSW"</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">re_rankers</span> = <span class="val">"Cohere Rerank"</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">vision</span> = <span class="val">"OpenCV RTSP Processing"</span>
+</div>
+
+      </div>
+    </div>
+  </foreignObject>
+</svg>

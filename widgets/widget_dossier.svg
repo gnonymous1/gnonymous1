@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="180" viewBox="0 0 850 180" fill="none">
+  <style>
+    .card {
+      font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
+      background: #000000;
+      border: 1px solid #ff0055;
+      border-radius: 6px;
+      box-sizing: border-box;
+      padding: 15px 20px;
+      width: 848px;
+      height: 178px;
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid #27272a;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      height: 25px;
+    }
+    .dots {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .dot-red { background: #ef4444; }
+    .dot-yellow { background: #eab308; }
+    .dot-green { background: #22c55e; }
+    .title {
+      color: #00f0ff;
+      font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+    .status {
+      color: #ff0055;
+      font-size: 10px;
+      font-weight: bold;
+    }
+    .content {
+      color: #ffffff;
+      font-size: 12px;
+      line-height: 1.6;
+    }
+    .key { color: #00f0ff; }
+    .val { color: #00ff66; }
+    .comment { color: #71717a; }
+    .bullet { color: #ff0055; margin-right: 5px; }
+    .highlight { color: #eab308; }
+    .table-container {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 5px;
+    }
+    .table-header {
+      color: #00f0ff;
+      border-bottom: 1px solid #ff0055;
+      text-align: left;
+      font-size: 11px;
+      padding: 4px 8px;
+    }
+    .table-cell {
+      padding: 6px 8px;
+      border-bottom: 1px solid #27272a;
+      font-size: 11px;
+      color: #e4e4e7;
+    }
+    .table-cell-bold {
+      color: #00ff66;
+      font-weight: bold;
+    }
+  </style>
+  <foreignObject x="0" y="0" width="850" height="180">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="card">
+      <div class="header">
+        <div class="dots">
+          <div class="dot dot-red"></div>
+          <div class="dot dot-yellow"></div>
+          <div class="dot dot-green"></div>
+        </div>
+        <div class="title">[ 01 // EXECUTIVE DOSSIER ]</div>
+        <div class="status">DECRYPT: SUCCESS</div>
+      </div>
+      <div class="content">
+        
+<div style="margin-top: 5px;">
+  <span class="comment"># [root@gnonymous1] // DECRYPTED_PROFILE: ACTIVE</span><br/>
+  <span class="key">dossier:</span><br/>
+  &nbsp;&nbsp;<span class="key">role:</span> <span class="val">Enterprise IT Expert &amp; Solutions Architect</span><br/>
+  &nbsp;&nbsp;<span class="key">operational_specialties:</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Large-Scale Infrastructure:</span> <span class="val">High-concurrency B2G / Corporate cloud platforms</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Agentic Frameworks:</span> <span class="val">Multi-model orchestrations, neural routing, LangGraph RAG</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Low-Level Hardening:</span> <span class="val">Kernel network filters via eBPF/XDP bypass routing</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Fintech Telemetry:</span> <span class="val">Netsuite/ERP sharded workflows, SHA-256 audit ledgers</span><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
+</div>
+
+      </div>
+    </div>
+  </foreignObject>
+</svg>
