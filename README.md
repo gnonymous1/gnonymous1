@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=%5B%20GNONYMOUS1%20%5D&fontSize=42&fontColor=00f0ff&fontAlignY=40&desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20%26%20CTO&descSize=14&descAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=180&amp;section=header&amp;text=%5B%20GNONYMOUS1%20%5D&amp;fontSize=42&amp;fontColor=00f0ff&amp;fontAlignY=40&amp;desc=BEST%20IN%20THE%20WORLD%20%7C%20SYSTEM%20ARCHITECT%20%26%20CTO&amp;descSize=14&amp;descAlignY=65&amp;animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ff0055&background=00000000&center=true&vCenter=true&width=600&height=80&lines=%5Broot%40gnonymous1%5D%23+decrypt+--dossier;%3E+INITIALIZING+NEURAL+ROUTERS...;%3E+eBPF+KERNEL+FILTERS+ACTIVE;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=ff0055&amp;background=00000000&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=%5Broot%40gnonymous1%5D%23+decrypt+--dossier;%3E+INITIALIZING+NEURAL+ROUTERS...;%3E+eBPF+KERNEL+FILTERS+ACTIVE;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Terminal Typing" />
 
 <br/>
 
@@ -25,13 +25,41 @@
   <tr>
     <td>
       <a href="https://github.com/gnonymous1/sovereign-root-protocol">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=sovereign-root-protocol&theme=dark&border_color=ff0055&title_color=00f0ff&icon_color=ff0055&bg_color=000000&text_color=ffffff" width="410px" alt="SRP"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=sovereign-root-protocol&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="SRP"/>
       </a>
     </td>
     <td width="15px"></td>
     <td>
       <a href="https://github.com/gnonymous1/Aspiration-Academy">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&repo=Aspiration-Academy&theme=dark&border_color=ff0055&title_color=00f0ff&icon_color=ff0055&bg_color=000000&text_color=ffffff" width="410px" alt="Aspiration Academy"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=Aspiration-Academy&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="Aspiration Academy"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td height="10px"></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/gnonymous1/ReconPortal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=ReconPortal&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="ReconPortal"/>
+      </a>
+    </td>
+    <td width="15px"></td>
+    <td>
+      <a href="https://github.com/gnonymous1/CameraGPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=CameraGPT&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="CameraGPT"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td height="10px"></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/gnonymous1/WAIFI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=WAIFI&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="WAIFI"/>
+      </a>
+    </td>
+    <td width="15px"></td>
+    <td>
+      <a href="https://github.com/gnonymous1/project-valkyrie">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=project-valkyrie&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff" width="410px" alt="Valkyrie"/>
       </a>
     </td>
   </tr>
@@ -141,12 +169,13 @@ class EnterpriseLogistics:
 ```
 
 ### [ AGILE OPERATIONS & PROJECT MANAGEMENT ]
-```markdown
-# Operational Logistics & Agile Delivery
-* IT Management: Systems Infrastructure, Risk Mitigation, Logistics
-* Project Management: Agile/Scrum, Sprint planning, SAFe, PLM
-* Ecosystem Audits: Compliance, Performance Signal Tracking
-* Communication: Team Collaboration, Stakeholder alignment, Technical Writing
+```json
+{
+  "IT_MANAGEMENT": "Systems Infrastructure, Risk Mitigation, Logistics",
+  "PROJECT_MANAGEMENT": "Agile/Scrum, Sprint planning, SAFe, PLM, SDLC",
+  "SYSTEMS_AUDITING": "Compliance checks, Performance Signal Tracking",
+  "COMMUNICATION": "Team Collaboration, Stakeholder alignment, Tech Writing"
+}
 ```
 
 ---
@@ -189,11 +218,11 @@ class EnterpriseLogistics:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=gnonymous1&show_icons=true&theme=dark&border_color=ff0055&title_color=00f0ff&icon_color=ff0055&bg_color=000000&text_color=ffffff&hide_border=false&count_private=true" width="410px" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=gnonymous1&amp;show_icons=true&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;icon_color=ff0055&amp;bg_color=000000&amp;text_color=ffffff&amp;hide_border=false&amp;count_private=true" width="410px" alt="GitHub Stats"/>
     </td>
     <td width="20px"></td>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&theme=dark&border=ff0055&background=000000&ring=ff0055&fire=00f0ff&currStreakLabel=ff0055&sideLabels=ffffff&dates=64748b" width="410px" alt="Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&amp;theme=dark&amp;border=ff0055&amp;background=000000&amp;ring=ff0055&amp;fire=00f0ff&amp;currStreakLabel=ff0055&amp;sideLabels=ffffff&amp;dates=64748b" width="410px" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
@@ -203,11 +232,11 @@ class EnterpriseLogistics:
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&layout=compact&theme=dark&border_color=ff0055&title_color=00f0ff&bg_color=000000&text_color=ffffff&langs_count=8&hide_border=false" width="380px" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&amp;layout=compact&amp;theme=dark&amp;border_color=ff0055&amp;title_color=00f0ff&amp;bg_color=000000&amp;text_color=ffffff&amp;langs_count=8&amp;hide_border=false" width="380px" alt="Top Languages"/>
     </td>
     <td width="30px"></td>
     <td valign="top">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnonymous1&theme=react-dark&bg_color=000000&color=00ff66&line=00f0ff&point=ff0055&area=true&hide_border=false" width="440px" alt="Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnonymous1&amp;theme=react-dark&amp;bg_color=000000&amp;color=00ff66&amp;line=00f0ff&amp;point=ff0055&amp;area=true&amp;hide_border=false" width="440px" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
@@ -255,6 +284,6 @@ Connecting to secure gateways...
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=%5Broot%40gnonymous1%5D%23%20session%20--close&fontSize=24&fontColor=00ff66&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=000000&amp;height=100&amp;section=footer&amp;text=%5Broot%40gnonymous1%5D%23%20session%20--close&amp;fontSize=24&amp;fontColor=00ff66&amp;animation=fadeIn" width="100%"/>
 
 </div>
