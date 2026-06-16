@@ -93,13 +93,13 @@
 <div style="margin-top: 5px;">
   <span class="comment"># Real-Time Routing Config</span><br/>
   <span class="key">runtime_components:</span><br/>
-  &nbsp;&nbsp;<span class="key">api_gateway:</span> <span class="val">FastAPI (Async Contracts)</span><br/>
-  &nbsp;&nbsp;<span class="key">ui_framework:</span> <span class="val">Next.js 15 App Router</span><br/>
-  &nbsp;&nbsp;<span class="key">transport:</span> <span class="val">WebRTC, WebSockets (WSS)</span><br/>
-  &nbsp;&nbsp;<span class="key">meetings_api:</span> <span class="val">Recall.ai Virtualization</span><br/>
-  &nbsp;&nbsp;<span class="key">webrtc_sfu:</span> <span class="val">LiveKit Server Ingestion</span><br/>
-  &nbsp;&nbsp;<span class="key">caching:</span> <span class="val">Redis Cluster Job Queues</span><br/>
-  &nbsp;&nbsp;<span class="key">database:</span> <span class="val">PostgreSQL Sharded RLS</span>
+  &#160;&#160;<span class="key">api_gateway:</span> <span class="val">FastAPI (Async Contracts)</span><br/>
+  &#160;&#160;<span class="key">ui_framework:</span> <span class="val">Next.js 15 App Router</span><br/>
+  &#160;&#160;<span class="key">transport:</span> <span class="val">WebRTC, WebSockets (WSS)</span><br/>
+  &#160;&#160;<span class="key">meetings_api:</span> <span class="val">Recall.ai Virtualization</span><br/>
+  &#160;&#160;<span class="key">webrtc_sfu:</span> <span class="val">LiveKit Server Ingestion</span><br/>
+  &#160;&#160;<span class="key">caching:</span> <span class="val">Redis Cluster Job Queues</span><br/>
+  &#160;&#160;<span class="key">database:</span> <span class="val">PostgreSQL Sharded RLS</span>
 </div>
 
       </div>

@@ -93,13 +93,13 @@
 <div style="margin-top: 5px;">
   <span class="comment"># [root@gnonymous1] // DECRYPTED_PROFILE: ACTIVE</span><br/>
   <span class="key">dossier:</span><br/>
-  &nbsp;&nbsp;<span class="key">role:</span> <span class="val">Enterprise IT Expert &amp; Solutions Architect</span><br/>
-  &nbsp;&nbsp;<span class="key">operational_specialties:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Large-Scale Infrastructure:</span> <span class="val">High-concurrency B2G / Corporate cloud platforms</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Agentic Frameworks:</span> <span class="val">Multi-model orchestrations, neural routing, LangGraph RAG</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Low-Level Hardening:</span> <span class="val">Kernel network filters via eBPF/XDP bypass routing</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Fintech Telemetry:</span> <span class="val">Netsuite/ERP sharded workflows, SHA-256 audit ledgers</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
+  &#160;&#160;<span class="key">role:</span> <span class="val">Enterprise IT Expert &amp; Solutions Architect</span><br/>
+  &#160;&#160;<span class="key">operational_specialties:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Large-Scale Infrastructure:</span> <span class="val">High-concurrency B2G / Corporate cloud platforms</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Agentic Frameworks:</span> <span class="val">Multi-model orchestrations, neural routing, LangGraph RAG</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Low-Level Hardening:</span> <span class="val">Kernel network filters via eBPF/XDP bypass routing</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Fintech Telemetry:</span> <span class="val">Netsuite/ERP sharded workflows, SHA-256 audit ledgers</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
 </div>
 
       </div>

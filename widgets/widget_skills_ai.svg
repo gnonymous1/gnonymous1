@@ -92,20 +92,20 @@
         
 <div style="margin-top: 5px;">
   <span class="comment">// Neural Agents &amp; Orchestration</span><br/>
-  <span class="key">{</span><br/>
-  &nbsp;&nbsp;<span class="key">"AI_AGENT_ENGINEERING"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Enterprise Multi-Agent Mesh"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"AGENTIC_FRAMEWORKS"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"LangGraph Stateful Graphs"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"CrewAI"</span>, <span class="val">"Pipecat WebRTC Streams"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"MODELS_AND_APIS"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Gemini Live"</span>, <span class="val">"GPT-4o"</span>, <span class="val">"Claude 3.5"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"NEURAL_GROUNDING"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"pgvector"</span>, <span class="val">"ChromaDB"</span>, <span class="val">"Transformers"</span><br/>
-  &nbsp;&nbsp;]<br/>
-  <span class="key">}</span>
+  <span class="key">{{</span><br/>
+  &#160;&#160;<span class="key">"AI_AGENT_ENGINEERING"</span>:<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Enterprise Multi-Agent Mesh"</span>,<br/>
+  &#160;&#160;<span class="key">"AGENTIC_FRAMEWORKS"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"LangGraph Stateful Graphs"</span>,<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"CrewAI"</span>, <span class="val">"Pipecat WebRTC Streams"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"MODELS_AND_APIS"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Gemini Live"</span>, <span class="val">"GPT-4o"</span>, <span class="val">"Claude 3.5"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"NEURAL_GROUNDING"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"pgvector"</span>, <span class="val">"ChromaDB"</span>, <span class="val">"Transformers"</span><br/>
+  &#160;&#160;]<br/>
+  <span class="key">}}</span>
 </div>
 
       </div>

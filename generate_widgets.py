@@ -110,13 +110,13 @@ dossier_content = """
 <div style="margin-top: 5px;">
   <span class="comment"># [root@gnonymous1] // DECRYPTED_PROFILE: ACTIVE</span><br/>
   <span class="key">dossier:</span><br/>
-  &nbsp;&nbsp;<span class="key">role:</span> <span class="val">Enterprise IT Expert &amp; Solutions Architect</span><br/>
-  &nbsp;&nbsp;<span class="key">operational_specialties:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Large-Scale Infrastructure:</span> <span class="val">High-concurrency B2G / Corporate cloud platforms</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Agentic Frameworks:</span> <span class="val">Multi-model orchestrations, neural routing, LangGraph RAG</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Low-Level Hardening:</span> <span class="val">Kernel network filters via eBPF/XDP bypass routing</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Fintech Telemetry:</span> <span class="val">Netsuite/ERP sharded workflows, SHA-256 audit ledgers</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
+  &#160;&#160;<span class="key">role:</span> <span class="val">Enterprise IT Expert &amp; Solutions Architect</span><br/>
+  &#160;&#160;<span class="key">operational_specialties:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Large-Scale Infrastructure:</span> <span class="val">High-concurrency B2G / Corporate cloud platforms</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Agentic Frameworks:</span> <span class="val">Multi-model orchestrations, neural routing, LangGraph RAG</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Low-Level Hardening:</span> <span class="val">Kernel network filters via eBPF/XDP bypass routing</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Fintech Telemetry:</span> <span class="val">Netsuite/ERP sharded workflows, SHA-256 audit ledgers</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="key">Incubation Governance:</span> <span class="val">Guided 6 tech cohorts (1,500+ products analyzed)</span>
 </div>
 """
 generate_svg("widget_dossier.svg", 850, 180, "[ 01 // EXECUTIVE DOSSIER ]", dossier_content, "DECRYPT: SUCCESS")
@@ -132,27 +132,27 @@ roles_content = """
   </tr>
   <tr>
     <td class="table-cell table-cell-bold">Chief Technology Officer</td>
-    <td class="table-cell">ServePro BPO &middot; USA</td>
+    <td class="table-cell">ServePro BPO &#183; USA</td>
     <td class="table-cell" style="color: #ffbd2e;">2024 - Present</td>
-    <td class="table-cell">AI Infrastructure &middot; FinTech Billing</td>
+    <td class="table-cell">AI Infrastructure &#183; FinTech Billing</td>
   </tr>
   <tr>
     <td class="table-cell table-cell-bold">Incubation Manager</td>
-    <td class="table-cell">NICs Sukkur &middot; PITB</td>
+    <td class="table-cell">NICs Sukkur &#183; PITB</td>
     <td class="table-cell">2021 - 2024</td>
-    <td class="table-cell">B2G Innovation &middot; Startup Cohorts</td>
+    <td class="table-cell">B2G Innovation &#183; Startup Cohorts</td>
   </tr>
   <tr>
     <td class="table-cell table-cell-bold">IT Systems Manager</td>
-    <td class="table-cell">Corporate IT &middot; KSA</td>
+    <td class="table-cell">Corporate IT &#183; KSA</td>
     <td class="table-cell">Previous</td>
-    <td class="table-cell">ERP Integrations &middot; Cloud Architecture</td>
+    <td class="table-cell">ERP Integrations &#183; Cloud Architecture</td>
   </tr>
   <tr>
     <td class="table-cell table-cell-bold">CSO (Advisory Node)</td>
-    <td class="table-cell">SindhCounts &middot; AIM &middot; BUIDL</td>
+    <td class="table-cell">SindhCounts &#183; AIM &#183; BUIDL</td>
     <td class="table-cell" style="color: #ffbd2e;">Ongoing</td>
-    <td class="table-cell">Zero-Trust Auditing &middot; Agile Systems</td>
+    <td class="table-cell">Zero-Trust Auditing &#183; Agile Systems</td>
   </tr>
 </table>
 """
@@ -165,15 +165,15 @@ lang_content = """
 <div style="margin-top: 5px;">
   <span class="comment"># Core Development Stack</span><br/>
   <span class="key">languages:</span><br/>
-  &nbsp;&nbsp;<span class="key">low_level:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">C / C++ (Linux Kernel, eBPF)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">Go, Rust, Assembly</span><br/>
-  &nbsp;&nbsp;<span class="key">backend_apis:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">Python (FastAPI, Streamlit)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">PHP (OOP, Web Engines)</span><br/>
-  &nbsp;&nbsp;<span class="key">frontend_db:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">TypeScript, JS (React, Next.js)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">SQL, PL-SQL (PostgreSQL, MySQL)</span>
+  &#160;&#160;<span class="key">low_level:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">C / C++ (Linux Kernel, eBPF)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">Go, Rust, Assembly</span><br/>
+  &#160;&#160;<span class="key">backend_apis:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">Python (FastAPI, Streamlit)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">PHP (OOP, Web Engines)</span><br/>
+  &#160;&#160;<span class="key">frontend_db:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">TypeScript, JS (React, Next.js)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">SQL, PL-SQL (PostgreSQL, MySQL)</span>
 </div>
 """
 generate_svg("widget_skills_languages.svg", 410, 240, "[ LANGUAGES &amp; STACK ]", lang_content, "ENV: DEPLOYED")
@@ -182,20 +182,20 @@ generate_svg("widget_skills_languages.svg", 410, 240, "[ LANGUAGES &amp; STACK ]
 ai_content = """
 <div style="margin-top: 5px;">
   <span class="comment">// Neural Agents &amp; Orchestration</span><br/>
-  <span class="key">{</span><br/>
-  &nbsp;&nbsp;<span class="key">"AI_AGENT_ENGINEERING"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Enterprise Multi-Agent Mesh"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"AGENTIC_FRAMEWORKS"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"LangGraph Stateful Graphs"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"CrewAI"</span>, <span class="val">"Pipecat WebRTC Streams"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"MODELS_AND_APIS"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Gemini Live"</span>, <span class="val">"GPT-4o"</span>, <span class="val">"Claude 3.5"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"NEURAL_GROUNDING"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"pgvector"</span>, <span class="val">"ChromaDB"</span>, <span class="val">"Transformers"</span><br/>
-  &nbsp;&nbsp;]<br/>
-  <span class="key">}</span>
+  <span class="key">{{</span><br/>
+  &#160;&#160;<span class="key">"AI_AGENT_ENGINEERING"</span>:<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Enterprise Multi-Agent Mesh"</span>,<br/>
+  &#160;&#160;<span class="key">"AGENTIC_FRAMEWORKS"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"LangGraph Stateful Graphs"</span>,<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"CrewAI"</span>, <span class="val">"Pipecat WebRTC Streams"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"MODELS_AND_APIS"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Gemini Live"</span>, <span class="val">"GPT-4o"</span>, <span class="val">"Claude 3.5"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"NEURAL_GROUNDING"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"pgvector"</span>, <span class="val">"ChromaDB"</span>, <span class="val">"Transformers"</span><br/>
+  &#160;&#160;]<br/>
+  <span class="key">}}</span>
 </div>
 """
 generate_svg("widget_skills_ai.svg", 410, 240, "[ COGNITIVE AI &amp; MESH ]", ai_content, "AGENT: ACTIVE")
@@ -204,15 +204,15 @@ generate_svg("widget_skills_ai.svg", 410, 240, "[ COGNITIVE AI &amp; MESH ]", ai
 data_content = """
 <div style="margin-top: 5px;">
   <span class="key">class</span> <span class="val">DataScienceCore</span>:<br/>
-  &nbsp;&nbsp;<span class="key">def</span> <span class="val">__init__</span>(self):<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">pipeline</span> = <span class="val">"Feature Engineering"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">ml_modules</span> = [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"PyTorch Neural Nets"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Sentence-Transformers"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;]<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">vector_search</span> = <span class="val">"pgvector HNSW"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">re_rankers</span> = <span class="val">"Cohere Rerank"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">vision</span> = <span class="val">"OpenCV RTSP Processing"</span>
+  &#160;&#160;<span class="key">def</span> <span class="val">__init__</span>(self):<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">pipeline</span> = <span class="val">"Feature Engineering"</span><br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">ml_modules</span> = [<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"PyTorch Neural Nets"</span>,<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"Sentence-Transformers"</span><br/>
+  &#160;&#160;&#160;&#160;]<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">vector_search</span> = <span class="val">"pgvector HNSW"</span><br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">re_rankers</span> = <span class="val">"Cohere Rerank"</span><br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">vision</span> = <span class="val">"OpenCV RTSP Processing"</span>
 </div>
 """
 generate_svg("widget_skills_data.svg", 410, 240, "[ DATA SCIENCE &amp; ML ]", data_content, "KERN: LOADED")
@@ -222,13 +222,13 @@ web_content = """
 <div style="margin-top: 5px;">
   <span class="comment"># Real-Time Routing Config</span><br/>
   <span class="key">runtime_components:</span><br/>
-  &nbsp;&nbsp;<span class="key">api_gateway:</span> <span class="val">FastAPI (Async Contracts)</span><br/>
-  &nbsp;&nbsp;<span class="key">ui_framework:</span> <span class="val">Next.js 15 App Router</span><br/>
-  &nbsp;&nbsp;<span class="key">transport:</span> <span class="val">WebRTC, WebSockets (WSS)</span><br/>
-  &nbsp;&nbsp;<span class="key">meetings_api:</span> <span class="val">Recall.ai Virtualization</span><br/>
-  &nbsp;&nbsp;<span class="key">webrtc_sfu:</span> <span class="val">LiveKit Server Ingestion</span><br/>
-  &nbsp;&nbsp;<span class="key">caching:</span> <span class="val">Redis Cluster Job Queues</span><br/>
-  &nbsp;&nbsp;<span class="key">database:</span> <span class="val">PostgreSQL Sharded RLS</span>
+  &#160;&#160;<span class="key">api_gateway:</span> <span class="val">FastAPI (Async Contracts)</span><br/>
+  &#160;&#160;<span class="key">ui_framework:</span> <span class="val">Next.js 15 App Router</span><br/>
+  &#160;&#160;<span class="key">transport:</span> <span class="val">WebRTC, WebSockets (WSS)</span><br/>
+  &#160;&#160;<span class="key">meetings_api:</span> <span class="val">Recall.ai Virtualization</span><br/>
+  &#160;&#160;<span class="key">webrtc_sfu:</span> <span class="val">LiveKit Server Ingestion</span><br/>
+  &#160;&#160;<span class="key">caching:</span> <span class="val">Redis Cluster Job Queues</span><br/>
+  &#160;&#160;<span class="key">database:</span> <span class="val">PostgreSQL Sharded RLS</span>
 </div>
 """
 generate_svg("widget_skills_web.svg", 410, 240, "[ REALTIME WEB &amp; API ]", web_content, "PORT: OPEN")
@@ -252,12 +252,13 @@ generate_svg("widget_skills_os.svg", 410, 240, "[ OS &amp; CLOUD PLATFORMS ]", o
 sec_content = """
 <div style="margin-top: 5px;">
   <span class="comment">/* Zero-Trust Hardening */</span><br/>
-  <span class="key">.security-envelope</span> &nbsp;&nbsp;<span class="key">low-level-routing:</span> <span class="val">eBPF-filters, XDP-pipes;</span><br/>
-  &nbsp;&nbsp;<span class="key">tunnel-mesh:</span> <span class="val">Tailscale-API, WireGuard;</span><br/>
-  &nbsp;&nbsp;<span class="key">encryption:</span> <span class="val">mTLS, Custom CA Trust-Blocks;</span><br/>
-  &nbsp;&nbsp;<span class="key">pen-testing:</span> <span class="val">Kali Linux, Nmap, Metasploit;</span><br/>
-  &nbsp;&nbsp;<span class="key">scraping-bot:</span> <span class="val">OSINT target recon systems;</span><br/>
-  <span class="key">}</span>
+  <span class="key">.security-envelope</span> {{<br/>
+  &#160;&#160;<span class="key">low-level-routing:</span> <span class="val">eBPF-filters, XDP-pipes;</span><br/>
+  &#160;&#160;<span class="key">tunnel-mesh:</span> <span class="val">Tailscale-API, WireGuard;</span><br/>
+  &#160;&#160;<span class="key">encryption:</span> <span class="val">mTLS, Custom CA Trust-Blocks;</span><br/>
+  &#160;&#160;<span class="key">pen-testing:</span> <span class="val">Kali Linux, Nmap, Metasploit;</span><br/>
+  &#160;&#160;<span class="key">scraping-bot:</span> <span class="val">OSINT target recon systems;</span><br/>
+  <span class="key">}}</span>
 </div>
 """
 generate_svg("widget_skills_security.svg", 410, 240, "[ KERNEL &amp; NET SECURITY ]", sec_content, "SHIELD: ARMED")
@@ -266,14 +267,14 @@ generate_svg("widget_skills_security.svg", 410, 240, "[ KERNEL &amp; NET SECURIT
 ent_content = """
 <div style="margin-top: 5px;">
   <span class="key">class</span> <span class="val">EnterpriseLogistics</span>:<br/>
-  &nbsp;&nbsp;<span class="key">def</span> <span class="val">configure_erp</span>(self):<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">erp</span> = <span class="val">"Oracle NetSuite SuiteScript 2.0"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">accounting</span> = [<span class="val">"QuickBooks"</span>, <span class="val">"Xero API"</span>]<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">tax_saas</span> = [<span class="val">"Drake Tax"</span>, <span class="val">"Lacerte SaaS"</span>]<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">payment_gateways</span> = [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Stripe Billing"</span>, <span class="val">"Paymob"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"JazzCash"</span>, <span class="val">"Easypaisa"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;]
+  &#160;&#160;<span class="key">def</span> <span class="val">configure_erp</span>(self):<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">erp</span> = <span class="val">"Oracle NetSuite SuiteScript 2.0"</span><br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">accounting</span> = [<span class="val">"QuickBooks"</span>, <span class="val">"Xero API"</span>]<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">tax_saas</span> = [<span class="val">"Drake Tax"</span>, <span class="val">"Lacerte SaaS"</span>]<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">payment_gateways</span> = [<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"Stripe Billing"</span>, <span class="val">"Paymob"</span>,<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"JazzCash"</span>, <span class="val">"Easypaisa"</span><br/>
+  &#160;&#160;&#160;&#160;]<br/>
 </div>
 """
 generate_svg("widget_skills_enterprise.svg", 410, 240, "[ ENTERPRISE INFRA &amp; ERP ]", ent_content, "LEDGER: INTACT")
@@ -282,15 +283,15 @@ generate_svg("widget_skills_enterprise.svg", 410, 240, "[ ENTERPRISE INFRA &amp;
 agile_content = """
 <div style="margin-top: 5px;">
   <span class="comment">// Project Lifecycle &amp; Governance</span><br/>
-  <span class="key">{</span><br/>
-  &nbsp;&nbsp;<span class="key">"IT_MANAGEMENT"</span>: <span class="val">"Risk Mitigation &amp; Logistics"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"AGILE_METHODOLOGY"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Scrum Framework"</span>, <span class="val">"Sprint Planning"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"SAFe Agile"</span>, <span class="val">"PLM"</span>, <span class="val">"SDLC"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"SYSTEMS_AUDITING"</span>: <span class="val">"Compliance Tracking"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"COLLABORATION"</span>: <span class="val">"Stakeholder Alignment"</span><br/>
-  <span class="key">}</span>
+  <span class="key">{{</span><br/>
+  &#160;&#160;<span class="key">"IT_MANAGEMENT"</span>: <span class="val">"Risk Mitigation &amp; Logistics"</span>,<br/>
+  &#160;&#160;<span class="key">"AGILE_METHODOLOGY"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Scrum Framework"</span>, <span class="val">"Sprint Planning"</span>,<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"SAFe Agile"</span>, <span class="val">"PLM"</span>, <span class="val">"SDLC"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"SYSTEMS_AUDITING"</span>: <span class="val">"Compliance Tracking"</span>,<br/>
+  &#160;&#160;<span class="key">"COLLABORATION"</span>: <span class="val">"Stakeholder Alignment"</span><br/>
+  <span class="key">}}</span>
 </div>
 """
 generate_svg("widget_skills_agile.svg", 410, 240, "[ AGILE OPERATIONS &amp; PM ]", agile_content, "COMPLIANCE: OK")
@@ -307,31 +308,31 @@ blueprint_content = """
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">sovereign-root-protocol</td>
-      <td class="table-cell">eBPF/XDP filter (C) &middot; FastAPI (Python) &middot; HAProxy mesh</td>
+      <td class="table-cell">eBPF/XDP filter (C) &#183; FastAPI (Python) &#183; HAProxy mesh</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">Aspiration-Academy</td>
-      <td class="table-cell">Next.js 15 &middot; Python FastAPI &middot; LangGraph subjective AI prep</td>
+      <td class="table-cell">Next.js 15 &#183; Python FastAPI &#183; LangGraph subjective AI prep</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">Agentic_PoC (GNONE)</td>
-      <td class="table-cell">LiveKit WebRTC clone bot &middot; Recall.ai container &middot; Streamlit</td>
+      <td class="table-cell">LiveKit WebRTC clone bot &#183; Recall.ai container &#183; Streamlit</td>
       <td class="table-cell" style="color: #ef4444;">[PRIVATE]</td>
       <td class="table-cell" style="color: #00ff66;">Secured</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">ReconPortal / Valkyrie</td>
-      <td class="table-cell">OSINT data extraction crawlers &middot; Network Nmap mapper &middot; Docker</td>
+      <td class="table-cell">OSINT data extraction crawlers &#183; Network Nmap mapper &#183; Docker</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">CameraGPT / WAIFI</td>
-      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &middot; Tailscale VPN</td>
+      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &#183; Tailscale VPN</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>

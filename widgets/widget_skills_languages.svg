@@ -93,15 +93,15 @@
 <div style="margin-top: 5px;">
   <span class="comment"># Core Development Stack</span><br/>
   <span class="key">languages:</span><br/>
-  &nbsp;&nbsp;<span class="key">low_level:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">C / C++ (Linux Kernel, eBPF)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">Go, Rust, Assembly</span><br/>
-  &nbsp;&nbsp;<span class="key">backend_apis:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">Python (FastAPI, Streamlit)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">PHP (OOP, Web Engines)</span><br/>
-  &nbsp;&nbsp;<span class="key">frontend_db:</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">TypeScript, JS (React, Next.js)</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="bullet">-</span> <span class="val">SQL, PL-SQL (PostgreSQL, MySQL)</span>
+  &#160;&#160;<span class="key">low_level:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">C / C++ (Linux Kernel, eBPF)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">Go, Rust, Assembly</span><br/>
+  &#160;&#160;<span class="key">backend_apis:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">Python (FastAPI, Streamlit)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">PHP (OOP, Web Engines)</span><br/>
+  &#160;&#160;<span class="key">frontend_db:</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">TypeScript, JS (React, Next.js)</span><br/>
+  &#160;&#160;&#160;&#160;<span class="bullet">-</span> <span class="val">SQL, PL-SQL (PostgreSQL, MySQL)</span>
 </div>
 
       </div>

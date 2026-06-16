@@ -92,12 +92,13 @@
         
 <div style="margin-top: 5px;">
   <span class="comment">/* Zero-Trust Hardening */</span><br/>
-  <span class="key">.security-envelope</span> &nbsp;&nbsp;<span class="key">low-level-routing:</span> <span class="val">eBPF-filters, XDP-pipes;</span><br/>
-  &nbsp;&nbsp;<span class="key">tunnel-mesh:</span> <span class="val">Tailscale-API, WireGuard;</span><br/>
-  &nbsp;&nbsp;<span class="key">encryption:</span> <span class="val">mTLS, Custom CA Trust-Blocks;</span><br/>
-  &nbsp;&nbsp;<span class="key">pen-testing:</span> <span class="val">Kali Linux, Nmap, Metasploit;</span><br/>
-  &nbsp;&nbsp;<span class="key">scraping-bot:</span> <span class="val">OSINT target recon systems;</span><br/>
-  <span class="key">}</span>
+  <span class="key">.security-envelope</span> {{<br/>
+  &#160;&#160;<span class="key">low-level-routing:</span> <span class="val">eBPF-filters, XDP-pipes;</span><br/>
+  &#160;&#160;<span class="key">tunnel-mesh:</span> <span class="val">Tailscale-API, WireGuard;</span><br/>
+  &#160;&#160;<span class="key">encryption:</span> <span class="val">mTLS, Custom CA Trust-Blocks;</span><br/>
+  &#160;&#160;<span class="key">pen-testing:</span> <span class="val">Kali Linux, Nmap, Metasploit;</span><br/>
+  &#160;&#160;<span class="key">scraping-bot:</span> <span class="val">OSINT target recon systems;</span><br/>
+  <span class="key">}}</span>
 </div>
 
       </div>

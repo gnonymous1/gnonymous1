@@ -92,15 +92,15 @@
         
 <div style="margin-top: 5px;">
   <span class="comment">// Project Lifecycle &amp; Governance</span><br/>
-  <span class="key">{</span><br/>
-  &nbsp;&nbsp;<span class="key">"IT_MANAGEMENT"</span>: <span class="val">"Risk Mitigation &amp; Logistics"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"AGILE_METHODOLOGY"</span>: [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Scrum Framework"</span>, <span class="val">"Sprint Planning"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"SAFe Agile"</span>, <span class="val">"PLM"</span>, <span class="val">"SDLC"</span><br/>
-  &nbsp;&nbsp;],<br/>
-  &nbsp;&nbsp;<span class="key">"SYSTEMS_AUDITING"</span>: <span class="val">"Compliance Tracking"</span>,<br/>
-  &nbsp;&nbsp;<span class="key">"COLLABORATION"</span>: <span class="val">"Stakeholder Alignment"</span><br/>
-  <span class="key">}</span>
+  <span class="key">{{</span><br/>
+  &#160;&#160;<span class="key">"IT_MANAGEMENT"</span>: <span class="val">"Risk Mitigation &amp; Logistics"</span>,<br/>
+  &#160;&#160;<span class="key">"AGILE_METHODOLOGY"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Scrum Framework"</span>, <span class="val">"Sprint Planning"</span>,<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"SAFe Agile"</span>, <span class="val">"PLM"</span>, <span class="val">"SDLC"</span><br/>
+  &#160;&#160;],<br/>
+  &#160;&#160;<span class="key">"SYSTEMS_AUDITING"</span>: <span class="val">"Compliance Tracking"</span>,<br/>
+  &#160;&#160;<span class="key">"COLLABORATION"</span>: <span class="val">"Stakeholder Alignment"</span><br/>
+  <span class="key">}}</span>
 </div>
 
       </div>

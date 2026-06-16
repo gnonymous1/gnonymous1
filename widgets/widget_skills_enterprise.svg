@@ -92,14 +92,14 @@
         
 <div style="margin-top: 5px;">
   <span class="key">class</span> <span class="val">EnterpriseLogistics</span>:<br/>
-  &nbsp;&nbsp;<span class="key">def</span> <span class="val">configure_erp</span>(self):<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">erp</span> = <span class="val">"Oracle NetSuite SuiteScript 2.0"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">accounting</span> = [<span class="val">"QuickBooks"</span>, <span class="val">"Xero API"</span>]<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">tax_saas</span> = [<span class="val">"Drake Tax"</span>, <span class="val">"Lacerte SaaS"</span>]<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;self.<span class="key">payment_gateways</span> = [<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"Stripe Billing"</span>, <span class="val">"Paymob"</span>,<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="val">"JazzCash"</span>, <span class="val">"Easypaisa"</span><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;]
+  &#160;&#160;<span class="key">def</span> <span class="val">configure_erp</span>(self):<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">erp</span> = <span class="val">"Oracle NetSuite SuiteScript 2.0"</span><br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">accounting</span> = [<span class="val">"QuickBooks"</span>, <span class="val">"Xero API"</span>]<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">tax_saas</span> = [<span class="val">"Drake Tax"</span>, <span class="val">"Lacerte SaaS"</span>]<br/>
+  &#160;&#160;&#160;&#160;self.<span class="key">payment_gateways</span> = [<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"Stripe Billing"</span>, <span class="val">"Paymob"</span>,<br/>
+  &#160;&#160;&#160;&#160;&#160;&#160;<span class="val">"JazzCash"</span>, <span class="val">"Easypaisa"</span><br/>
+  &#160;&#160;&#160;&#160;]<br/>
 </div>
 
       </div>

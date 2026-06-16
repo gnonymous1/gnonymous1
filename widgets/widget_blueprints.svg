@@ -100,31 +100,31 @@
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">sovereign-root-protocol</td>
-      <td class="table-cell">eBPF/XDP filter (C) &middot; FastAPI (Python) &middot; HAProxy mesh</td>
+      <td class="table-cell">eBPF/XDP filter (C) &#183; FastAPI (Python) &#183; HAProxy mesh</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">Aspiration-Academy</td>
-      <td class="table-cell">Next.js 15 &middot; Python FastAPI &middot; LangGraph subjective AI prep</td>
+      <td class="table-cell">Next.js 15 &#183; Python FastAPI &#183; LangGraph subjective AI prep</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">Agentic_PoC (GNONE)</td>
-      <td class="table-cell">LiveKit WebRTC clone bot &middot; Recall.ai container &middot; Streamlit</td>
+      <td class="table-cell">LiveKit WebRTC clone bot &#183; Recall.ai container &#183; Streamlit</td>
       <td class="table-cell" style="color: #ef4444;">[PRIVATE]</td>
       <td class="table-cell" style="color: #00ff66;">Secured</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">ReconPortal / Valkyrie</td>
-      <td class="table-cell">OSINT data extraction crawlers &middot; Network Nmap mapper &middot; Docker</td>
+      <td class="table-cell">OSINT data extraction crawlers &#183; Network Nmap mapper &#183; Docker</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">CameraGPT / WAIFI</td>
-      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &middot; Tailscale VPN</td>
+      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &#183; Tailscale VPN</td>
       <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
       <td class="table-cell" style="color: #00ff66;">Active</td>
     </tr>
