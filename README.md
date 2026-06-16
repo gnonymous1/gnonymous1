@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:0d1117,60:161b27,100:0f0c29&height=240&section=header&text=Ghulam%20Nabi%20Kalhoro&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Enterprise%20Solutions%20Architect%20%7C%20CTO%20%7C%20AI%20Infrastructure%20Engineer&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020813,35:05182e,70:092b4a,100:0e446c&height=240&section=header&text=Ghulam%20Nabi%20Kalhoro&fontSize=50&fontColor=00f0ff&fontAlignY=36&desc=Enterprise%20Solutions%20Architect%20%7C%20CTO%20%7C%20AI%20Infrastructure%20Engineer&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -248,6 +248,6 @@ Expert at cross-pollinating **business lifecycle management** with data telemetr
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:0a0a1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e446c,50:05182e,100:020813&height=120&section=footer" width="100%"/>
 
 </div>
