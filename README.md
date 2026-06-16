@@ -157,7 +157,7 @@ Building enterprise AI systems, secure infrastructure, and scalable digital plat
 <!-- 03 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS-->
 <!-- ========================================== -->
 <div align="center">
-  <img src="widgets/widget_blueprints.svg?v=5" width="100%" alt="Deployed Systems Blueprint"/>
+  <img src="widgets/widget_blueprints_v2.svg" width="100%" alt="Deployed Systems Blueprint"/>
 </div>
 
 ---
