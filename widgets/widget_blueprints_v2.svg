@@ -1,20 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="320" viewBox="0 0 850 320" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="50%" stop-color="#090d1a"/>
+      <stop offset="100%" stop-color="#04060c"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f5a0"/>
+    </linearGradient>
+  </defs>
   <style>
     .card {
       font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
-      background: #000000;
-      border: 1px solid #ff0055;
-      border-radius: 6px;
+      background: url('#cardBg') #070a14;
+      background-color: #070a14;
+      border: 1.5px solid #00f2fe;
+      border-radius: 8px;
       box-sizing: border-box;
       padding: 15px 20px;
       width: 848px;
-      height: 318px;
+      height: 358px;
+      box-shadow: 0 4px 20px rgba(0, 242, 254, 0.08);
     }
     .header {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      border-bottom: 1px solid #27272a;
+      border-bottom: 1px solid #1e293b;
       padding-bottom: 8px;
       margin-bottom: 12px;
       height: 25px;
@@ -30,54 +44,57 @@
       border-radius: 50%;
       display: inline-block;
     }
-    .dot-red { background: #ef4444; }
-    .dot-yellow { background: #eab308; }
-    .dot-green { background: #22c55e; }
+    .dot-red { background: #ff4757; }
+    .dot-yellow { background: #ffa502; }
+    .dot-green { background: #2ed573; }
     .title {
-      color: #00f0ff;
+      color: #00f2fe;
       font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 0.8px;
+      text-shadow: 0 0 10px rgba(0, 242, 254, 0.3);
+    }
+    .status {
+      color: #00f5a0;
+      font-size: 10px;
       font-weight: bold;
       letter-spacing: 0.5px;
     }
-    .status {
-      color: #ff0055;
-      font-size: 10px;
-      font-weight: bold;
-    }
     .content {
-      color: #ffffff;
+      color: #f1f5f9;
       font-size: 12px;
       line-height: 1.6;
     }
-    .key { color: #00f0ff; }
-    .val { color: #00ff66; }
-    .comment { color: #71717a; }
-    .bullet { color: #ff0055; margin-right: 5px; }
-    .highlight { color: #eab308; }
+    .key { color: #38bdf8; }
+    .val { color: #00f5a0; }
+    .comment { color: #64748b; font-style: italic; }
+    .bullet { color: #a855f7; margin-right: 5px; font-weight: bold; }
+    .highlight { color: #f59e0b; }
     .table-container {
       width: 100%;
       border-collapse: collapse;
       margin-top: 5px;
     }
     .table-header {
-      color: #00f0ff;
-      border-bottom: 1px solid #ff0055;
+      color: #00f2fe;
+      border-bottom: 1.5px solid #38bdf8;
       text-align: left;
       font-size: 11px;
-      padding: 4px 8px;
+      padding: 6px 8px;
+      font-weight: 700;
     }
     .table-cell {
       padding: 6px 8px;
-      border-bottom: 1px solid #27272a;
+      border-bottom: 1px solid #1e293b;
       font-size: 11px;
-      color: #e4e4e7;
+      color: #cbd5e1;
     }
     .table-cell-bold {
-      color: #00ff66;
+      color: #00f2fe;
       font-weight: bold;
     }
   </style>
-  <foreignObject x="0" y="0" width="850" height="320">
+  <foreignObject x="0" y="0" width="850" height="360">
     <div xmlns="http://www.w3.org/1999/xhtml" class="card">
       <div class="header">
         <div class="dots">
@@ -85,48 +102,66 @@
           <div class="dot dot-yellow"></div>
           <div class="dot dot-green"></div>
         </div>
-        <div class="title">[ 03 // DEPLOYED SYSTEMS &amp; SYSTEM BLUEPRINTS ]</div>
-        <div class="status">NODES: MAP_VERIFIED</div>
+        <div class="title">[ 03 // DEPLOYED SYSTEMS &amp; ARCHITECTURAL BLUEPRINTS ]</div>
+        <div class="status">NODES: VERIFIED</div>
       </div>
       <div class="content">
         
 <div style="margin-top: 5px; font-size: 11px;">
   <table class="table-container">
     <tr>
-      <th class="table-header" style="width: 25%; font-size: 10px;">REPOSITORY / NODE</th>
-      <th class="table-header" style="width: 45%; font-size: 10px;">ARCHITECTURE &amp; STACK ROLE</th>
-      <th class="table-header" style="width: 15%; font-size: 10px;">VISIBILITY</th>
-      <th class="table-header" style="width: 15%; font-size: 10px;">STACK STATUS</th>
+      <th class="table-header" style="width: 26%;">SYSTEM / REPOSITORY</th>
+      <th class="table-header" style="width: 46%;">ARCHITECTURE &amp; TECHNOLOGY FOCUS</th>
+      <th class="table-header" style="width: 14%;">ACCESS</th>
+      <th class="table-header" style="width: 14%;">STATUS</th>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">AIPI</td>
+      <td class="table-cell">Universal AI Gateway &#183; 189 Providers &#183; Smart Token Failover Mesh</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
     </tr>
     <tr>
       <td class="table-cell table-cell-bold">sovereign-root-protocol</td>
-      <td class="table-cell">eBPF/XDP filter (C) &#183; FastAPI (Python) &#183; HAProxy mesh</td>
-      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
-      <td class="table-cell" style="color: #00ff66;">Active</td>
+      <td class="table-cell">eBPF/XDP Kernel Filter (C) &#183; FastAPI &#183; AI Traffic Firewalls</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
     </tr>
     <tr>
-      <td class="table-cell table-cell-bold">Aspiration-Academy</td>
-      <td class="table-cell">Next.js 15 &#183; Python FastAPI &#183; LangGraph subjective AI prep</td>
-      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
-      <td class="table-cell" style="color: #00ff66;">Active</td>
+      <td class="table-cell table-cell-bold">project-valkyrie</td>
+      <td class="table-cell">Autonomous AI Wireless Security Agent &#183; Gemini &#183; PMKID/WPS TUI</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
     </tr>
     <tr>
-      <td class="table-cell table-cell-bold">Agentic_PoC (GNONE)</td>
-      <td class="table-cell">LiveKit WebRTC clone bot &#183; Recall.ai container &#183; Streamlit</td>
-      <td class="table-cell" style="color: #ef4444;">[PRIVATE]</td>
-      <td class="table-cell" style="color: #00ff66;">Secured</td>
+      <td class="table-cell table-cell-bold">pentestgpt-web</td>
+      <td class="table-cell">LLM-Powered Penetration Testing UI &#183; Interactive Terminal &#183; Kali</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
     </tr>
     <tr>
-      <td class="table-cell table-cell-bold">ReconPortal / Valkyrie</td>
-      <td class="table-cell">OSINT data extraction crawlers &#183; Network Nmap mapper &#183; Docker</td>
-      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
-      <td class="table-cell" style="color: #00ff66;">Active</td>
+      <td class="table-cell table-cell-bold">Agentic_PoC</td>
+      <td class="table-cell">Autonomous Agentic AI &#183; Neuro-Symbolic Dashboard &#183; LiveKit WebRTC</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
     </tr>
     <tr>
-      <td class="table-cell table-cell-bold">CameraGPT / WAIFI</td>
-      <td class="table-cell">OpenCV RTSP camera stream (AI detection) &#183; Tailscale VPN</td>
-      <td class="table-cell" style="color: #00ff66;">[PUBLIC]</td>
-      <td class="table-cell" style="color: #00ff66;">Active</td>
+      <td class="table-cell table-cell-bold">WAIFI / CameraGPT</td>
+      <td class="table-cell">WiFi Suite (GTK3) &#183; Serverless AI Visitor Face Detection (Netlify)</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">AUTOAI / LinkedIn Lab</td>
+      <td class="table-cell">Self-Evolving Multi-Agent Workflows &#183; Autonomous Social Engine</td>
+      <td class="table-cell" style="color: #00f5a0;">[PUBLIC]</td>
+      <td class="table-cell" style="color: #00f5a0;">Active &#9679;</td>
+    </tr>
+    <tr>
+      <td class="table-cell table-cell-bold">Aspiration-Academy / NHMP</td>
+      <td class="table-cell">SaaS LangGraph Subjective Prep &#183; National B2G Ticketing &amp; Analytics</td>
+      <td class="table-cell" style="color: #f43f5e;">[PRIVATE]</td>
+      <td class="table-cell" style="color: #00f2fe;">Secured &#128274;</td>
     </tr>
   </table>
 </div>

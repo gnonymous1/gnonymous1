@@ -1,20 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="410" height="270" viewBox="0 0 410 270" fill="none">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="50%" stop-color="#090d1a"/>
+      <stop offset="100%" stop-color="#04060c"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="50%" stop-color="#7928ca"/>
+      <stop offset="100%" stop-color="#00f5a0"/>
+    </linearGradient>
+  </defs>
   <style>
     .card {
       font-family: 'Fira Code', 'Consolas', 'Courier New', Courier, monospace;
-      background: #000000;
-      border: 1px solid #ff0055;
-      border-radius: 6px;
+      background: url('#cardBg') #070a14;
+      background-color: #070a14;
+      border: 1.5px solid #00f2fe;
+      border-radius: 8px;
       box-sizing: border-box;
       padding: 15px 20px;
       width: 408px;
       height: 268px;
+      box-shadow: 0 4px 20px rgba(0, 242, 254, 0.08);
     }
     .header {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      border-bottom: 1px solid #27272a;
+      border-bottom: 1px solid #1e293b;
       padding-bottom: 8px;
       margin-bottom: 12px;
       height: 25px;
@@ -30,50 +44,53 @@
       border-radius: 50%;
       display: inline-block;
     }
-    .dot-red { background: #ef4444; }
-    .dot-yellow { background: #eab308; }
-    .dot-green { background: #22c55e; }
+    .dot-red { background: #ff4757; }
+    .dot-yellow { background: #ffa502; }
+    .dot-green { background: #2ed573; }
     .title {
-      color: #00f0ff;
+      color: #00f2fe;
       font-size: 13px;
+      font-weight: bold;
+      letter-spacing: 0.8px;
+      text-shadow: 0 0 10px rgba(0, 242, 254, 0.3);
+    }
+    .status {
+      color: #00f5a0;
+      font-size: 10px;
       font-weight: bold;
       letter-spacing: 0.5px;
     }
-    .status {
-      color: #ff0055;
-      font-size: 10px;
-      font-weight: bold;
-    }
     .content {
-      color: #ffffff;
+      color: #f1f5f9;
       font-size: 12px;
       line-height: 1.6;
     }
-    .key { color: #00f0ff; }
-    .val { color: #00ff66; }
-    .comment { color: #71717a; }
-    .bullet { color: #ff0055; margin-right: 5px; }
-    .highlight { color: #eab308; }
+    .key { color: #38bdf8; }
+    .val { color: #00f5a0; }
+    .comment { color: #64748b; font-style: italic; }
+    .bullet { color: #a855f7; margin-right: 5px; font-weight: bold; }
+    .highlight { color: #f59e0b; }
     .table-container {
       width: 100%;
       border-collapse: collapse;
       margin-top: 5px;
     }
     .table-header {
-      color: #00f0ff;
-      border-bottom: 1px solid #ff0055;
+      color: #00f2fe;
+      border-bottom: 1.5px solid #38bdf8;
       text-align: left;
       font-size: 11px;
-      padding: 4px 8px;
+      padding: 6px 8px;
+      font-weight: 700;
     }
     .table-cell {
       padding: 6px 8px;
-      border-bottom: 1px solid #27272a;
+      border-bottom: 1px solid #1e293b;
       font-size: 11px;
-      color: #e4e4e7;
+      color: #cbd5e1;
     }
     .table-cell-bold {
-      color: #00ff66;
+      color: #00f2fe;
       font-weight: bold;
     }
   </style>
@@ -91,15 +108,15 @@
       <div class="content">
         
 <div style="margin-top: 5px;">
-  <span class="comment">// Project Lifecycle &amp; Governance</span><br/>
+  <span class="comment">// Strategic Program &amp; Tech Leadership</span><br/>
   <span class="key">{{</span><br/>
-  &#160;&#160;<span class="key">"IT_MANAGEMENT"</span>: <span class="val">"Risk Mitigation &amp; Logistics"</span>,<br/>
-  &#160;&#160;<span class="key">"AGILE_METHODOLOGY"</span>: [<br/>
-  &#160;&#160;&#160;&#160;<span class="val">"Scrum Framework"</span>, <span class="val">"Sprint Planning"</span>,<br/>
-  &#160;&#160;&#160;&#160;<span class="val">"SAFe Agile"</span>, <span class="val">"PLM"</span>, <span class="val">"SDLC"</span><br/>
+  &#160;&#160;<span class="key">"LEADERSHIP_ROLE"</span>: <span class="val">"CTO &amp; Lead Systems Architect"</span>,<br/>
+  &#160;&#160;<span class="key">"GOVERNANCE"</span>: [<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Google Certified Project Management"</span>,<br/>
+  &#160;&#160;&#160;&#160;<span class="val">"Scrum &amp; SAFe Agile Delivery"</span>, <span class="val">"SDLC / CI-CD"</span><br/>
   &#160;&#160;],<br/>
-  &#160;&#160;<span class="key">"SYSTEMS_AUDITING"</span>: <span class="val">"Compliance Tracking"</span>,<br/>
-  &#160;&#160;<span class="key">"COLLABORATION"</span>: <span class="val">"Stakeholder Alignment"</span><br/>
+  &#160;&#160;<span class="key">"INCUBATION_TRACK"</span>: <span class="val">"6 Cohorts (1,500+ Tech Ventures)"</span>,<br/>
+  &#160;&#160;<span class="key">"STAKEHOLDER_OPS"</span>: <span class="val">"B2G, Enterprise Boardroom &amp; Devs"</span><br/>
   <span class="key">}}</span>
 </div>
 
