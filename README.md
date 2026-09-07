@@ -13,9 +13,10 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=flat-square&color=0284c7&label=PROFILE+VIEWS)](https://github.com/gnonymous1)
-[![Public Repositories](https://img.shields.io/badge/Public_Repositories-11_Active-0d9488?style=flat-square)](https://github.com/gnonymous1?tab=repositories)
+[![Flagship Agent](https://img.shields.io/badge/Flagship-Gnox_AI_v7.0-00f2fe?style=flat-square)](#-vip-flagship-spotlight--gnox-ai-v70)
 [![Firm](https://img.shields.io/badge/Firm-IndusBridge_Capitals_%26_Systems-6366f1?style=flat-square)](https://linkedin.com/in/gnkalhoro)
-[![Architecture](https://img.shields.io/badge/Architecture-Sovereign_AI_Systems-8b5cf6?style=flat-square)](#)
+[![Public Repositories](https://img.shields.io/badge/Public_Repositories-11_Active-0d9488?style=flat-square)](https://github.com/gnonymous1?tab=repositories)
+[![Architecture](https://img.shields.io/badge/Architecture-Sovereign_AI_%26_eBPF-8b5cf6?style=flat-square)](#-sovereign-ai--multi-agent-architecture)
 
 </div>
 
@@ -25,29 +26,57 @@
 
 > **"Build controls that actually enforce, not policies that merely document."**
 
-I am the **Chief Executive Officer (CEO) at IndusBridge** and an **Enterprise Solutions Architect** designing high-concurrency cross-border investment platforms and sovereign technical architectures.
+I am the **Chief Executive Officer (CEO) at IndusBridge** and an **Enterprise Solutions Architect** designing high-concurrency cross-border investment platforms, sovereign cognitive architectures, and autonomous AI systems.
 
-My executive and engineering mandate unifies:
-* 🌐 **Cross-Border Advisory & Systems ([IndusBridge](https://linkedin.com/in/gnkalhoro)):** Bridging Pakistan, MENA (Dubai Desk: GulfCapital Systems), and Europe across priority economic corridors: **IT & AI · Real Estate · Mines & Minerals · Power & Energy**. Internal AI engines for deal origination, compliance audits, and SIFC strategic alignment.
-* 🧠 **Universal AI Protocol Gateways:** High-throughput model routing, smart token preservation, and zero-downtime failover across 189+ LLM providers (`AIPI`).
-* 🛡️ **Kernel-Level Infrastructure Defense:** Real-time packet enforcement and prompt-injection firewalls directly in Linux network paths using eBPF & XDP bypass hooks (`sovereign-root-protocol`).
-* ⚡ **Autonomous Multi-Agent Systems:** Cognitive wireless security agents, automated vulnerability inspection pipelines, and distributed swarm telemetry (`project-valkyrie`, `pentestgpt-web`).
+My work unifies four strategic pillars:
+* 🌐 **Cross-Border Advisory & Systems ([IndusBridge](https://linkedin.com/in/gnkalhoro)):** Bridging Pakistan, MENA (Dubai Desk: GulfCapital Systems), and Europe across priority economic corridors: **IT & AI · Real Estate · Mines & Minerals · Power & Energy**. Custom internal AI pipelines for deal origination, compliance auditing, and SIFC strategic alignment.
+* 🤖 **Autonomous Cybersecurity Agent Systems ([Gnox AI v7.0](#-vip-flagship-spotlight--gnox-ai-v70)):** Multi-agent cognition, dynamic DAG planning, and real sandboxed security tool execution.
+* 🧠 **Universal AI Protocol Gateways ([AIPI](https://github.com/gnonymous1/AIPI)):** High-throughput model routing, smart token preservation, and zero-downtime failover across 189+ LLM providers.
+* 🛡️ **Kernel-Level Infrastructure Defense ([sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)):** Real-time packet enforcement and prompt-injection firewalls directly in Linux network paths using eBPF & XDP bypass hooks.
 
 ---
 
-## 🌐 Sovereign AI & Enterprise Ecosystem
+## 🌟 VIP Flagship Spotlight — Gnox AI v7.0
+
+### Autonomous Cybersecurity Agent Platform & Studio
+
+> **Confidential & Proprietary Enterprise Platform**  
+> *Developed by Ghulam Nabi Kalhoro (gnkalhoro) — CEO @ IndusBridge*
+
+**Gnox AI v7.0** is an autonomous cybersecurity platform combining frontier generative reasoning with real, sandboxed offensive and defensive tooling. Rather than acting as a passive chatbot, Gnox operates as an **autonomous multi-agent supervisor** capable of planning, executing, verifying, observing, and self-correcting across multi-step security operations.
 
 <div align="center">
 
-<img src="assets/ecosystem_map.jpg" alt="Sovereign AI & Enterprise Ecosystem" width="100%" style="border-radius: 10px; max-width: 950px;"/>
+<img src="assets/gnox_studio_live.jpg" alt="Gnox AI Studio v7.0 Live Interface" width="100%" style="border-radius: 10px; max-width: 950px; box-shadow: 0 4px 25px rgba(0, 242, 254, 0.15);"/>
+
+*Figure 1: Gnox AI Studio v7.0 Live Interface — 3-Pane IDE featuring real-time Tool Monitoring Canvas, Dynamic Execution DAG, Streaming Terminal Logs, and Agentic Chat with OmniRoute Healer (400+ Models).*
 
 </div>
 
-The architecture connects core operational layers:
-1. **Advisory & Deal Sourcing Layer:** IndusBridge Cross-Border Investment Platform & Analytics.
-2. **Gateway Layer:** Universal AI Protocol Interface (`AIPI`) routing 189+ model providers.
-3. **Security & Kernel Layer:** eBPF/XDP network-level filters & prompt injection shielding (`sovereign-root-protocol`).
-4. **Cognitive Agent Layer:** Distributed multi-agent swarms, cognitive wireless defense (`project-valkyrie`), and automated penetration engines (`pentestgpt-web`).
+### 🎯 Core Gnox AI Capabilities:
+* **3-Pane Studio IDE:** Left Activity Bar with native tool runners (Nmap, Metasploit, Subfinder, Nuclei), central dynamic DAG canvas with live latencies and terminal streaming, and right Agentic Chat.
+* **OmniRoute Model Healer:** Real-time routing across 400+ frontier models (Claude 3.5, GPT-4o, Gemini Live, local Ollama) with automatic rate-limit healing and failover.
+* **Cognitive Supervisor & Universal DAG Planner:** Converts high-level natural language directives into optimized, acyclic task graphs executed in parallel.
+* **Authoritative Sandboxed Scope Guard:** AST shell parsing blocks obfuscation, subshell injection, and out-of-scope targets before execution.
+* **Tri-Layer Persistent Memory:** Episodic history, vector semantic database (HNSW), and procedural playbooks for zero-hallucination execution.
+
+> 🔒 *Security & IP Notice: All Gnox AI v7.0 underlying core engine code, agent graphs, and proprietary AST inspectors are maintained in a secure, private enterprise repository ([`gnonymous1/gnoxai`](https://github.com/gnonymous1/gnoxai)).*
+
+---
+
+## 🌐 Sovereign AI & Multi-Agent Architecture
+
+<div align="center">
+
+<img src="assets/ecosystem_map.jpg" alt="Master Sovereign AI & Multi-Agent Ecosystem Architecture" width="100%" style="border-radius: 10px; max-width: 950px;"/>
+
+</div>
+
+The master ecosystem map illustrates the interconnected technical layers:
+1. **Core Dual Engine:** **Gnox AI v7.0** (Autonomous Security Agent Studio) and **AIPI** (Universal AI Gateway).
+2. **Security & Kernel Modules:** **Sovereign Root Protocol** (eBPF/XDP Kernel Filter), **Project Valkyrie** (Wireless Defense), **PentestGPT**, and **WAIFI**.
+3. **Enterprise Modules:** **IndusBridge** (Cross-Border Capital & Tech Advisory).
+4. **Cognitive Mesh:** **Agentic PoC**, **CameraGPT**, and **AutoAI**.
 
 ---
 
@@ -136,6 +165,7 @@ The architecture connects core operational layers:
 
 | Project / Venture | Category | Key Tech Stack & Focus | Access |
 |:---|:---|:---|:---:|
+| **[Gnox AI v7.0](https://github.com/gnonymous1/gnoxai)** | Autonomous Cybersecurity Agent Platform | Multi-Agent DAG, OmniRoute Healer, 3-Pane Studio | `FLAGSHIP (SECURE)` |
 | **[IndusBridge](https://linkedin.com/in/gnkalhoro)** | Cross-Border Capital & Tech Advisory | Real Estate · IT/AI · Mines & Minerals · Power | `VENTURE` |
 | **[AIPI](https://github.com/gnonymous1/AIPI)** | Universal AI Routing & Failover | Python, FastAPI, Antigravity, 189 Providers | `PUBLIC` |
 | **[sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)** | eBPF/XDP AI Kernel Security | C (Kernel), Python, HAProxy, mTLS | `PUBLIC` |
@@ -155,10 +185,10 @@ The architecture connects core operational layers:
 | Domain | Technologies & Frameworks |
 |:---|:---|
 | **Executive Leadership & Strategy** | Chief Executive Officer (CEO), Cross-Border Deal Origination, B2G Alignment, Governance |
+| **Autonomous AI & Agentic Systems** | Gnox Multi-Agent DAGs, OmniRoute Model Routing, LangGraph, CrewAI, Gemini Multimodal, PyTorch |
 | **Low-Level & Kernel Engineering** | C, C++, Linux Kernel, eBPF, XDP, Assembly (x86/ARM), WireGuard, mTLS |
-| **AI & Agentic Systems** | Multi-Agent Swarms, LangGraph, CrewAI, Gemini Multimodal, PyTorch, pgvector |
-| **Backend & Cloud Infrastructure** | Python (FastAPI), Go, TypeScript, PostgreSQL, Redis, Docker, GCP, Azure |
-| **Offensive & Defensive Security** | Zero-Trust Architecture, Kali Linux, Reverse Engineering, AST Command Guards, AST Shields |
+| **Backend & Cloud Infrastructure** | Python (FastAPI), Go, TypeScript, PostgreSQL (pgvector), Redis, Docker, GCP, Azure |
+| **Offensive & Defensive Security** | Zero-Trust Architecture, Kali Linux, Reverse Engineering, AST Command Guards, Network Telemetry |
 | **Project & Advisory Standards** | Google Certified Project Management, Scrum, SAFe Agile, Tech Incubation (1,500+ ventures) |
 
 ---
