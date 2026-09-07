@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:090d1a,100:00f2fe&height=220&section=header&text=GHULAM%20NABI%20KALHORO&fontSize=42&fontColor=00f2fe&fontAlignY=36&desc=Enterprise%20Solutions%20Architect%20%E2%80%A2%20CTO%20%E2%80%A2%20AI%20%26%20Kernel%20Infrastructure%20Engineer&descSize=14&descColor=00f5a0&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="assets/profile_hero.jpg" alt="Ghulam Nabi Kalhoro - Enterprise AI Architect & Systems CTO" width="100%" style="border-radius: 10px; max-width: 950px;"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnkalhoro)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gnonymous1)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.gnkalhoro@gmail.com)
+[![Google Certified](https://img.shields.io/badge/Google_PM-Verified-34A853?style=for-the-badge&logo=google&logoColor=white)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
+[![Location](https://img.shields.io/badge/Location-Pakistan-0F9D58?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00f2fe&background=070a1400&center=true&vCenter=true&width=750&height=70&lines=%5Broot%40gnonymous1%5D%23+initiating+autonomous+ai+mesh...;%3E+AIPI%3A+189+PROVIDERS+ACTIVE+%7C+ZERO-FAILOVER;%3E+eBPF+%2F+XDP+KERNEL+FIREWALLS+ARMED;%3E+SOVEREIGN+AI+INFRASTRUCTURE+ONLINE" alt="Terminal Typing" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070a14)](https://linkedin.com/in/gnkalhoro)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-00f2fe?style=for-the-badge&logo=github&logoColor=black&labelColor=070a14)](https://github.com/gnonymous1)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070a14)](mailto:mr.gnkalhoro@gmail.com)
-[![Google Certified](https://img.shields.io/badge/Google_PM-Verified-00f5a0?style=for-the-badge&logo=google&logoColor=white&labelColor=070a14)](https://skills.google/public_profiles/e8177aca-655c-4a35-bab7-2fa2678bb698)
-[![Location](https://img.shields.io/badge/Location-Pakistan-10b981?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=070a14)](#)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=flat-square&color=00f5a0&label=PROFILE+VIEWS&labelColor=070a14)](https://github.com/gnonymous1)
-[![Public Repos](https://img.shields.io/badge/Public_Projects-11_Active-38bdf8?style=flat-square&labelColor=070a14)](https://github.com/gnonymous1?tab=repositories)
-[![Sovereign Systems](https://img.shields.io/badge/Systems-Sovereign_AI_Architecture-a855f7?style=flat-square&labelColor=070a14)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=flat-square&color=0284c7&label=PROFILE+VIEWS)](https://github.com/gnonymous1)
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-11_Active-0d9488?style=flat-square)](https://github.com/gnonymous1?tab=repositories)
+[![Architecture Focus](https://img.shields.io/badge/Architecture-Sovereign_AI_%26_eBPF-6366f1?style=flat-square)](#)
 
 </div>
 
@@ -28,235 +24,167 @@
 
 > **"Build controls that actually enforce, not policies that merely document."**
 
-I architect enterprise-grade, high-concurrency systems at the intersection of **Autonomous Multi-Agent AI**, **Low-Level Linux Kernel Engineering (eBPF/XDP)**, and **National B2G Infrastructure**. My engineering focus spans:
+I am an **Enterprise Solutions Architect & CTO** specializing in sovereign, high-concurrency systems at the intersection of **Autonomous Multi-Agent AI**, **Low-Level Linux Kernel Security (eBPF/XDP)**, and **National B2G Infrastructure**.
 
-- 🧠 **Universal AI Routing & Token Failover Gateways** (`AIPI`, 189+ AI providers with zero downtime).
-- 🛡️ **Kernel-Level AI Guardrails & Prompt Injection Firewalls** (eBPF & XDP packet filters).
-- ⚡ **Autonomous Defensive & Offensive Agents** (Cognitive wireless testing, automated vulnerability pipelines).
-- 🏢 **Scalable Enterprise SaaS & National Portals** (LangGraph stateful workflows, SHA-256 ledgers, ERP integrations).
+### 🎯 Key Engineering Competencies
+- **Universal AI Gateways:** Intelligent model routing, real-time token failover across 189+ LLM providers with sub-millisecond switching (`AIPI`).
+- **Kernel-Level AI Guardrails:** Deep packet inspection and prompt-injection firewalls directly in the Linux network path via eBPF & XDP bypass routing (`sovereign-root-protocol`).
+- **Autonomous Agentic Mesh:** Stateful multi-agent DAGs, cognitive wireless penetration agents, and automated vulnerability inspection engines (`project-valkyrie`, `pentestgpt-web`).
+- **Enterprise & B2G Systems:** Mission-critical microservices, immutable SHA-256 audit trails, and ERP integrations handling massive concurrent operational throughput.
 
 ---
 
-## 🌟 Featured Open Source Ecosystem
+## 🌐 Sovereign AI & Multi-Agent Architecture
 
 <div align="center">
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://github.com/gnonymous1/AIPI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=AIPI&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="AIPI"/>
-      </a>
-    </td>
-    <td width="15px"></td>
-    <td>
-      <a href="https://github.com/gnonymous1/sovereign-root-protocol">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=sovereign-root-protocol&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="sovereign-root-protocol"/>
-      </a>
-    </td>
-  </tr>
-  <tr><td height="12px"></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gnonymous1/project-valkyrie">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=project-valkyrie&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="project-valkyrie"/>
-      </a>
-    </td>
-    <td width="15px"></td>
-    <td>
-      <a href="https://github.com/gnonymous1/pentestgpt-web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=pentestgpt-web&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="pentestgpt-web"/>
-      </a>
-    </td>
-  </tr>
-  <tr><td height="12px"></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gnonymous1/Agentic_PoC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=Agentic_PoC&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="Agentic_PoC"/>
-      </a>
-    </td>
-    <td width="15px"></td>
-    <td>
-      <a href="https://github.com/gnonymous1/WAIFI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=WAIFI&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="WAIFI"/>
-      </a>
-    </td>
-  </tr>
-  <tr><td height="12px"></td></tr>
-  <tr>
-    <td>
-      <a href="https://github.com/gnonymous1/CameraGPT">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=CameraGPT&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="CameraGPT"/>
-      </a>
-    </td>
-    <td width="15px"></td>
-    <td>
-      <a href="https://github.com/gnonymous1/AUTOAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gnonymous1&amp;repo=AUTOAI&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9" width="410px" alt="AUTOAI"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="assets/ecosystem_map.jpg" alt="Sovereign AI & Multi-Agent Mesh Ecosystem" width="100%" style="border-radius: 10px; max-width: 950px;"/>
 
 </div>
 
+The diagram above outlines the core topology of my sovereign AI ecosystem, linking universal API routing, kernel-level enforcement, edge wireless monitoring, and cognitive agent meshes into a unified, secure fabric.
+
 ---
 
-## 🛠️ Complete Public Project Portfolio
+## 🚀 Featured Open Source Repositories
 
-| Project | Domain / Core Focus | Technology Stack | Status & Links |
+### 1. 🌐 [AIPI — Universal AI Protocol Interface & Token Gateway](https://github.com/gnonymous1/AIPI)
+> **Multi-Model Manager & Smart Token Failover Gateway supporting 189 API providers and 50+ vibe coding agents.**
+* **Stack:** Python 3.11+, FastAPI, Antigravity, Multi-LLM Mesh, Async Telemetry
+* **Highlights:** Zero-downtime dynamic routing, automatic rate-limit failover, multi-provider token preservation, and plug-and-play support for Claude, Cursor, Gemini CLI, Windsurf, Cline, Roo Code, and more.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/AIPI?style=social)](https://github.com/gnonymous1/AIPI) [![Fork](https://img.shields.io/github/forks/gnonymous1/AIPI?style=social)](https://github.com/gnonymous1/AIPI)
+
+---
+
+### 2. 🛡️ [sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)
+> **Open-source AI traffic validation & enforcement gateway powered by eBPF/XDP kernel hooks.**
+* **Stack:** C (Linux Kernel eBPF/XDP), Python, FastAPI, HAProxy Mesh, mTLS, SHA-256 Ledger
+* **Highlights:** Semantic scoring, real-time prompt injection blocking at the network interface layer, tamper-proof audit trails, and micro-segmentation for AI model traffic.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/sovereign-root-protocol?style=social)](https://github.com/gnonymous1/sovereign-root-protocol)
+
+---
+
+### 3. ⚡ [project-valkyrie](https://github.com/gnonymous1/project-valkyrie)
+> **Autonomous AI-cognitive wireless security agent combining Gemini AI with automated packet capture.**
+* **Stack:** Python, Google Gemini Multimodal, Kali Linux, PMKID, WPS Analysis, Hacker TUI
+* **Highlights:** Autonomous frequency scanning, automated handshake & PMKID telemetry, neural threat modeling, and distributed swarm node communication.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/project-valkyrie?style=social)](https://github.com/gnonymous1/project-valkyrie)
+
+---
+
+### 4. 🔍 [pentestgpt-web](https://github.com/gnonymous1/pentestgpt-web)
+> **LLM-powered automated penetration testing interface with interactive terminal streaming.**
+* **Stack:** Python, FastAPI, Kali Linux, Playwright, WebSockets, LLM Agent Runners
+* **Highlights:** Hands-free vulnerability assessment, autonomous command verification, live terminal execution streaming, and automated remediation reporting.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/pentestgpt-web?style=social)](https://github.com/gnonymous1/pentestgpt-web)
+
+---
+
+### 5. 🧠 [Agentic_PoC](https://github.com/gnonymous1/Agentic_PoC)
+> **Neuro-symbolic agentic dashboard and autonomous conversational clone bot.**
+* **Stack:** Python, Streamlit, LiveKit WebRTC, Recall.ai, Gemini Live Multimodal
+* **Highlights:** Real-time bidirectional voice/video streaming, persistent memory graphs, stateful agent decision trees, and digital clone avatars.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/Agentic_PoC)](https://github.com/gnonymous1/Agentic_PoC)
+
+---
+
+### 6. 📡 [WAIFI](https://github.com/gnonymous1/WAIFI)
+> **Professional WiFi penetration testing desktop suite with 100+ integrated tools and adapter management.**
+* **Stack:** Python, GTK3, Linux Kernel, Aircrack-ng, Monitor Mode Automation
+* **Highlights:** One-click monitor mode toggle, automatic packet capture, loot locker credential storage, and hardware adapter diagnostics.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/WAIFI)](https://github.com/gnonymous1/WAIFI)
+
+---
+
+### 7. 📷 [CameraGPT](https://github.com/gnonymous1/CameraGPT)
+> **AI-powered serverless visitor management system with instant facial detection and secure access logging.**
+* **Stack:** Netlify Serverless Functions, JavaScript, JWT Authentication, OpenCV
+* **Highlights:** Instant browser webcam capture, privacy-first biometric consent verification, and audit-ready visitor logs.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/CameraGPT)](https://github.com/gnonymous1/CameraGPT)
+
+---
+
+### 8. 🤖 [AUTOAI](https://github.com/gnonymous1/AUTOAI)
+> **Autonomous multi-agent framework and self-evolving workflow orchestrator.**
+* **Stack:** Python, LangChain, Multi-Agent Coordination, Dynamic Prompt Optimization
+* **Highlights:** Self-correcting task loops, autonomous tool dispatching, and deterministic execution pipelines.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/AUTOAI)](https://github.com/gnonymous1/AUTOAI)
+
+---
+
+### 9. 📈 [linkedin-growth-lab](https://github.com/gnonymous1/linkedin-growth-lab)
+> **Autonomous LinkedIn growth engine, content scheduler, analytics pipeline & AI post copilot.**
+* **Stack:** Python, OAuth 2.0, SQLite, Multimodal Content Engine, Rest API
+* **Highlights:** Autonomous post scheduling, carousel generation, engagement telemetry, and content repurposing.
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/linkedin-growth-lab)](https://github.com/gnonymous1/linkedin-growth-lab)
+
+---
+
+### 10. 🏛️ [Gnonymous-Co](https://github.com/gnonymous1/Gnonymous-Co)
+> **Enterprise AI architectures, sovereign infrastructure specifications, and cyber blueprints.**
+* **Stack:** Enterprise Architecture Blueprints, eBPF Kernel Specs, System Designs
+* [![Stars](https://img.shields.io/github/stars/gnonymous1/Gnonymous-Co)](https://github.com/gnonymous1/Gnonymous-Co)
+
+---
+
+## 📊 Complete Project Matrix
+
+| Project | Category | Key Tech Stack | Access |
 |:---|:---|:---|:---:|
-| **[AIPI](https://github.com/gnonymous1/AIPI)** | Universal AI Protocol Gateway, Smart Failover & 189 API Router | Python 3.11+, FastAPI, Antigravity, Multi-LLM Mesh | [![Badge](https://img.shields.io/badge/Open_Source-Public-00f5a0?style=flat-square)](https://github.com/gnonymous1/AIPI) |
-| **[sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)** | eBPF/XDP AI traffic validation & prompt injection enforcement | C (Kernel), Python, FastAPI, HAProxy, mTLS | [![Badge](https://img.shields.io/badge/Security-Public-00f2fe?style=flat-square)](https://github.com/gnonymous1/sovereign-root-protocol) |
-| **[project-valkyrie](https://github.com/gnonymous1/project-valkyrie)** | Autonomous AI-cognitive wireless penetration agent & TUI | Python, Gemini AI, Kali Linux, PMKID, Aircrack | [![Badge](https://img.shields.io/badge/Agent-Public-00f5a0?style=flat-square)](https://github.com/gnonymous1/project-valkyrie) |
-| **[pentestgpt-web](https://github.com/gnonymous1/pentestgpt-web)** | Automated LLM penetration testing platform & live terminal | Python, FastAPI, Kali Linux, Playwright, LLM | [![Badge](https://img.shields.io/badge/Offensive-Public-00f2fe?style=flat-square)](https://github.com/gnonymous1/pentestgpt-web) |
-| **[Agentic_PoC](https://github.com/gnonymous1/Agentic_PoC)** | Autonomous Neuro-Symbolic Agent Dashboard & LiveKit clone | Python, Streamlit, LiveKit WebRTC, Recall.ai, Gemini | [![Badge](https://img.shields.io/badge/Agentic-Public-a855f7?style=flat-square)](https://github.com/gnonymous1/Agentic_PoC) |
-| **[WAIFI](https://github.com/gnonymous1/WAIFI)** | Professional WiFi penetration testing suite & loot locker | Python, GTK3, Linux Kernel, Wireless Tools | [![Badge](https://img.shields.io/badge/Suite-Public-38bdf8?style=flat-square)](https://github.com/gnonymous1/WAIFI) |
-| **[CameraGPT](https://github.com/gnonymous1/CameraGPT)** | AI serverless visitor management & webcam face detection | Netlify Functions, JavaScript, JWT, OpenCV | [![Badge](https://img.shields.io/badge/Serverless-Public-00f5a0?style=flat-square)](https://github.com/gnonymous1/CameraGPT) |
-| **[AUTOAI](https://github.com/gnonymous1/AUTOAI)** | Autonomous Multi-Agent AI Framework & Self-Evolving Workflows | Python, LangChain, Multi-Agent Coordination | [![Badge](https://img.shields.io/badge/Framework-Public-a855f7?style=flat-square)](https://github.com/gnonymous1/AUTOAI) |
-| **[linkedin-growth-lab](https://github.com/gnonymous1/linkedin-growth-lab)** | Autonomous LinkedIn growth engine, content scheduler & analytics | Python, OAuth 2.0, SQLite, AI Content Copilot | [![Badge](https://img.shields.io/badge/Automation-Public-38bdf8?style=flat-square)](https://github.com/gnonymous1/linkedin-growth-lab) |
-| **[Gnonymous-Co](https://github.com/gnonymous1/Gnonymous-Co)** | Sovereign AI systems, enterprise architectures & cyber solutions | Architecture Blueprints, eBPF specs, Enterprise AI | [![Badge](https://img.shields.io/badge/Enterprise-Public-00f2fe?style=flat-square)](https://github.com/gnonymous1/Gnonymous-Co) |
+| **[AIPI](https://github.com/gnonymous1/AIPI)** | Universal AI Routing & Failover | Python, FastAPI, Antigravity, 189 Providers | `PUBLIC` |
+| **[sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)** | eBPF/XDP AI Kernel Security | C (Kernel), Python, HAProxy, mTLS | `PUBLIC` |
+| **[project-valkyrie](https://github.com/gnonymous1/project-valkyrie)** | AI Wireless Security Agent | Gemini AI, Python, Kali, PMKID | `PUBLIC` |
+| **[pentestgpt-web](https://github.com/gnonymous1/pentestgpt-web)** | Automated Pentesting & Terminal | Python, Playwright, Kali Linux | `PUBLIC` |
+| **[Agentic_PoC](https://github.com/gnonymous1/Agentic_PoC)** | Neuro-Symbolic Agentic Dashboard | Streamlit, LiveKit WebRTC, Gemini | `PUBLIC` |
+| **[WAIFI](https://github.com/gnonymous1/WAIFI)** | Desktop WiFi Penetration Suite | Python, GTK3, Linux Wireless Stack | `PUBLIC` |
+| **[CameraGPT](https://github.com/gnonymous1/CameraGPT)** | Serverless Visitor Management | Netlify Serverless, JS, OpenCV | `PUBLIC` |
+| **[AUTOAI](https://github.com/gnonymous1/AUTOAI)** | Self-Evolving Multi-Agent Mesh | Python, LangChain, Multi-Agent | `PUBLIC` |
+| **[linkedin-growth-lab](https://github.com/gnonymous1/linkedin-growth-lab)** | Growth Engine & AI Copilot | Python, SQLite, OAuth 2.0 | `PUBLIC` |
+| **[Gnonymous-Co](https://github.com/gnonymous1/Gnonymous-Co)** | Enterprise AI & Cyber Solutions | Sovereign System Blueprints | `PUBLIC` |
 
 ---
 
-<!-- ========================================== -->
-<!-- 01 // EXECUTIVE DOSSIER                   -->
-<!-- ========================================== -->
-<div align="center">
-  <img src="widgets/widget_dossier.svg?v=5" width="100%" alt="Executive Dossier"/>
-</div>
+## 🛠️ Technical Proficiency Matrix
+
+| Domain | Technologies & Frameworks |
+|:---|:---|
+| **Low-Level & Kernel** | C, C++, Linux Kernel, eBPF, XDP, Assembly (x86/ARM), WireGuard, mTLS |
+| **AI & Agentic Systems** | Multi-Agent Swarms, LangGraph, CrewAI, Gemini Multimodal, PyTorch, pgvector |
+| **Backend & Cloud** | Python (FastAPI), Go, TypeScript, PostgreSQL, Redis, Docker, GCP, Azure |
+| **Offensive & Defensive Security** | Zero-Trust Architecture, Kali Linux, Reverse Engineering, AST Command Guards, AST Shields |
+| **Enterprise & B2G** | Oracle NetSuite, B2G Portals, High-Volume Ledgers, Scalable Distributed Queues |
+| **Leadership & Methodology** | Google Certified Project Management, Scrum, SAFe Agile, Tech Incubation (1,500+ ventures) |
 
 ---
 
-<!-- ========================================== -->
-<!-- 02 // TECHNICAL DEPLOYMENT MATRIX         -->
-<!-- ========================================== -->
-<div align="center">
-  <h3 style="color:#00f2fe; font-family: monospace;">[ 02 // TECHNICAL DEPLOYMENT MATRIX ]</h3>
-  <br/>
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="widgets/widget_skills_languages.svg?v=5" width="410px" alt="Languages"/>
-      </td>
-      <td width="15px"></td>
-      <td>
-        <img src="widgets/widget_skills_ai.svg?v=5" width="410px" alt="AI &amp; Cognitive"/>
-      </td>
-    </tr>
-    <tr><td height="10px"></td></tr>
-    <tr>
-      <td>
-        <img src="widgets/widget_skills_data.svg?v=5" width="410px" alt="Data Science"/>
-      </td>
-      <td width="15px"></td>
-      <td>
-        <img src="widgets/widget_skills_web.svg?v=5" width="410px" alt="Web &amp; Microservices"/>
-      </td>
-    </tr>
-    <tr><td height="10px"></td></tr>
-    <tr>
-      <td>
-        <img src="widgets/widget_skills_os.svg?v=5" width="410px" alt="OS &amp; Cloud"/>
-      </td>
-      <td width="15px"></td>
-      <td>
-        <img src="widgets/widget_skills_security.svg?v=5" width="410px" alt="Kernel &amp; Security"/>
-      </td>
-    </tr>
-    <tr><td height="10px"></td></tr>
-    <tr>
-      <td>
-        <img src="widgets/widget_skills_enterprise.svg?v=5" width="410px" alt="Enterprise Logistics"/>
-      </td>
-      <td width="15px"></td>
-      <td>
-        <img src="widgets/widget_skills_agile.svg?v=5" width="410px" alt="Agile &amp; PM"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📜 Verified Credentials & Certifications
+
+- **Google Cloud & AI:** Build AI Agents with Enterprise Databases (2026)
+- **Google Cloud & AI:** Innovating with Cloud AI & Cognitive Infrastructure (2026)
+- **Google Cloud & AI:** Infrastructure & Application Modernization (2026)
+- **Google Cloud & AI:** Generative AI Applications Development & Organizational Transformation (2026)
+- **Google Cloud & AI:** Gemini Enterprise Application Development (2026)
+- **Google Professional Project Management:** Verified Specialization (2022)
+- **Cybersecurity & Systems:** Principles of Cybersecurity & Hardening (2022)
+- **Systems Engineering:** C++ Systems Software & Advanced Relational Web Engines (2011–2013)
 
 ---
 
-<!-- ========================================== -->
-<!-- 03 // DEPLOYED SYSTEMS & SYSTEM BLUEPRINTS-->
-<!-- ========================================== -->
-<div align="center">
-  <img src="widgets/widget_blueprints_v2.svg?v=5" width="100%" alt="Deployed Systems Blueprint"/>
-</div>
-
----
-
-<!-- ========================================== -->
-<!-- 04 // ACTIVITY METRICS                     -->
-<!-- ========================================== -->
-<div align="center">
-  <h3 style="color:#00f2fe; font-family: monospace;">[ 04 // SYSTEM ACTIVITY METRICS ]</h3>
-  <br/>
-  
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=gnonymous1&amp;show_icons=true&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;icon_color=00f5a0&amp;bg_color=070a14&amp;text_color=f1f5f9&amp;hide_border=false&amp;count_private=true" width="410px" alt="GitHub Stats"/>
-      </td>
-      <td width="20px"></td>
-      <td valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=gnonymous1&amp;theme=dark&amp;border=00f2fe&amp;background=070a14&amp;ring=00f2fe&amp;fire=00f5a0&amp;currStreakLabel=00f5a0&amp;sideLabels=f1f5f9&amp;dates=64748b" width="410px" alt="Streak Stats"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/><br/>
-
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnonymous1&amp;layout=compact&amp;theme=dark&amp;border_color=00f2fe&amp;title_color=00f2fe&amp;bg_color=070a14&amp;text_color=f1f5f9&amp;langs_count=8&amp;hide_border=false" width="380px" alt="Top Languages"/>
-      </td>
-      <td width="30px"></td>
-      <td valign="top">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnonymous1&amp;theme=react-dark&amp;bg_color=070a14&amp;color=00f5a0&amp;line=00f2fe&amp;point=a855f7&amp;area=true&amp;hide_border=false" width="440px" alt="Activity Graph"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- ========================================== -->
-<!-- 05 // SYSTEM SIGNALS & ECOSYSTEM CREDENTIALS-->
-<!-- ========================================== -->
-<div align="center">
-  <img src="widgets/widget_credentials.svg?v=5" width="100%" alt="System Credentials &amp; Certifications"/>
-</div>
-
----
-
-<!-- ========================================== -->
-<!-- 06 // SYSTEM CONNECT & TERMINATION        -->
-<!-- ========================================== -->
-<div align="center">
-
-<h3 style="color:#00f2fe; font-family: monospace;">[ 06 // CONNECT &amp; COLLABORATE ]</h3>
-<br/>
+## 📬 Connect & Collaborate
 
 ```
-[SYSTEM_SESSION: READY]
-> Ready to architect next-generation autonomous AI systems & sovereign infrastructure.
+[COMMUNICATION_LINK: OPEN]
+> Ready to collaborate on sovereign AI infrastructure, autonomous agent development, and enterprise systems.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070a14)](https://linkedin.com/in/gnkalhoro)
-[![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070a14)](mailto:mr.gnkalhoro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00f2fe?style=for-the-badge&logo=github&logoColor=black&labelColor=070a14)](https://github.com/gnonymous1)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gnkalhoro)
+[![Email](https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.gnkalhoro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gnonymous1)
 
 <br/>
 
 *"Build controls that actually enforce, not policies that merely document."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,50:090d1a,100:030712&height=100&section=footer" width="100%"/>
 
 </div>
