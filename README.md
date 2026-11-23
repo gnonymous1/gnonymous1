@@ -14,7 +14,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gnonymous1&style=flat-square&color=0284c7&label=PROFILE+VIEWS)](https://github.com/gnonymous1)
 [![Flagship Agent](https://img.shields.io/badge/Flagship-Gnox_AI_v7.0-00f2fe?style=flat-square)](#-vip-flagship-spotlight--gnox-ai-v70)
-[![Flagship Subsystem](https://img.shields.io/badge/Flagship-GNDROiD_v2.5.0-3DDC84?style=flat-square&logo=android&logoColor=white)](#-systems-engineering-spotlight--gndroid-v250)
 [![Firm](https://img.shields.io/badge/Firm-IndusBridge_Capitals_%26_Systems-6366f1?style=flat-square)](https://linkedin.com/in/gnkalhoro)
 [![Public Repositories](https://img.shields.io/badge/Public_Repositories-12_Active-0d9488?style=flat-square)](https://github.com/gnonymous1?tab=repositories)
 [![Architecture](https://img.shields.io/badge/Architecture-Sovereign_AI_%26_eBPF-8b5cf6?style=flat-square)](#-sovereign-ai--multi-agent-architecture)
@@ -62,45 +61,6 @@ My work unifies four strategic pillars:
 * **Tri-Layer Persistent Memory:** Episodic history, vector semantic database (HNSW), and procedural playbooks for zero-hallucination execution.
 
 > 🔒 *Security & IP Notice: All Gnox AI v7.0 underlying core engine code, agent graphs, and proprietary AST inspectors are maintained in a secure, private enterprise repository ([`gnonymous1/gnoxai`](https://github.com/gnonymous1/gnoxai)).*
-
----
-
-## ⚡ Systems Engineering Spotlight — GNDROiD v2.5.0
-
-### Institutional Android Virtualization, Hardware Hypervisor & Multi-Instance Device Orchestrator
-
-> **High-Performance Windows-Native Subsystem · Apache 2.0 Open Source Platform**  
-> *Architected & Engineered by Ghulam Nabi Kalhoro (gnkalhoro) — CEO @ IndusBridge*
-
-[![Release](https://img.shields.io/badge/Release-v2.5.0_Early_Access-brightgreen?style=flat-square&logo=github)](https://github.com/gnonymous1/GNDROiD/releases/tag/v2.5.0)
-[![Website](https://img.shields.io/badge/Product_Website-Live_Online-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](https://gnonymous1.github.io/GNDROiD/)
-[![Repository](https://img.shields.io/badge/Repository-gnonymous1%2FGNDROiD-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/gnonymous1/GNDROiD)
-[![Platform](https://img.shields.io/badge/Platform-Windows_11_•_WHPX_•_x86__64-blue?style=flat-square&logo=windows)](https://github.com/gnonymous1/GNDROiD)
-[![Verification](https://img.shields.io/badge/Verification-207%2F207_Passed_(100%25)-brightgreen?style=flat-square&logo=checkmarx)](https://github.com/gnonymous1/GNDROiD/blob/master/TEST_READY.md)
-
-**GNDROiD v2.5.0 Early Access** is an institutional-grade, hyper-performant Android virtualization, sandboxing, and physical device orchestration engine architected natively for Windows 10 & 11. It bridges bare-metal Windows performance with Android subsystem virtualization—enabling independent physical router IP allocation across concurrent instances, zero-latency 60–120 FPS display mirroring, Google `netsimd` Bluetooth mesh simulation, and wireless multi-device management with zero process orphaning.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gnonymous1/GNDROiD/master/assets/screenshots/multi_instance_ips_verified.png" alt="GNDROiD v2.5.0 Multi-Instance Router IPs & Bridged Networking" width="100%" style="border-radius: 10px; max-width: 950px; box-shadow: 0 4px 25px rgba(61, 220, 132, 0.15);"/>
-
-*Figure 2: GNDROiD v2.5.0 Early Access — Hardware Bridged Mode 2 Networking active on physical adapter with dedicated Router DHCP allocation across multi-instances (`192.168.100.155–157`) and zero terminal popups.*
-
-</div>
-
-### 🎯 Key Architectural & System Capabilities:
-* **🌐 Mode 2 Hardware Bridged Router DHCP:** Connects Android directly to host physical Wi-Fi/Ethernet adapters via NDIS/TAP. Each VM acquires a genuine LAN IP (`192.168.100.x`) directly from your home/office router—operating as an independent physical LAN device with full static IP and DNS overrides.
-* **👥 Multi-Instance Parallel Execution:** Run 3 to 4+ concurrent Android instances, each provisioned with a distinct physical MAC address and dedicated router DHCP lease (`.155`, `.156`, `.157`) for zero-crosstalk multi-account and multi-agent testing.
-* **⚡ 120 FPS Low-Latency Display Mirroring:** High-throughput GPU-accelerated video streaming pipeline utilizing Scrcpy 4.1, Vulkan rendering, and Win32 `CREATE_NO_WINDOW` background execution for zero-flicker 60–120 FPS physical and virtual device control.
-* **📡 Google `netsimd` Virtual Bluetooth HCI & Sensor Stack:** Integrated Google `netsimd` BLE controller on Port 7300 paired with host Bluetooth radio discovery, GPS coordinate injection, fingerprint biometrics simulation, and 6-axis IMU sensors.
-* **📱 `GNDROiD Link` Wireless Companion & TV Suite:** Instant zero-cable LAN screen mirroring (Port 51880) and Android TV receiver mode powered by the dedicated companion app (`GNDROiD_Companion.apk`).
-* **📦 Enterprise Packaging & Automated Verification:** Turnkey Inno Setup installer, Scoop bucket distribution (`gnonymous1/scoop-gndroid`), WinGet package manifest, and 100% automated verification across all 207 E2E tests.
-
-> 🚀 **Quick Access & Links:**  
-> 🔗 **Product Website:** [https://gnonymous1.github.io/GNDROiD/](https://gnonymous1.github.io/GNDROiD/)  
-> 📦 **GitHub Releases (v2.5.0 Early Access):** [Download Portable Suite (x64)](https://github.com/gnonymous1/GNDROiD/releases/tag/v2.5.0)  
-> 💻 **GitHub Repository:** [`gnonymous1/GNDROiD`](https://github.com/gnonymous1/GNDROiD)  
-> 📖 **Complete Documentation:** [12-Section Installation & User Manual](https://github.com/gnonymous1/GNDROiD/blob/master/INSTALL_AND_USER_GUIDE.md)
 
 ---
 
@@ -206,7 +166,6 @@ The master ecosystem map illustrates the interconnected technical layers:
 | Project / Venture | Category | Key Tech Stack & Focus | Access |
 |:---|:---|:---|:---:|
 | **[Gnox AI v7.0](https://github.com/gnonymous1/gnoxai)** | Autonomous Cybersecurity Agent Platform | Multi-Agent DAG, OmniRoute Healer, 3-Pane Studio | `FLAGSHIP (SECURE)` |
-| **[GNDROiD v2.5.0](https://github.com/gnonymous1/GNDROiD)** | Next-Gen Android Hypervisor & Subsystem | Hardware Router DHCP, 120 FPS Mirroring, Netsimd | `PUBLIC (EARLY ACCESS)` |
 | **[IndusBridge](https://linkedin.com/in/gnkalhoro)** | Cross-Border Capital & Tech Advisory | Real Estate · IT/AI · Mines & Minerals · Power | `VENTURE` |
 | **[AIPI](https://github.com/gnonymous1/AIPI)** | Universal AI Routing & Failover | Python, FastAPI, Antigravity, 189 Providers | `PUBLIC` |
 | **[sovereign-root-protocol](https://github.com/gnonymous1/sovereign-root-protocol)** | eBPF/XDP AI Kernel Security | C (Kernel), Python, HAProxy, mTLS | `PUBLIC` |
